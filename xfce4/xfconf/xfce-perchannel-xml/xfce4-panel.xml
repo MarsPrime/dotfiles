@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="20"/>
+      <property name="size" type="uint" value="26"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="3"/>
+        <value type="int" value="2"/>
+        <value type="int" value="1"/>
+        <value type="int" value="6"/>
+        <value type="int" value="5"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="12"/>
+        <value type="int" value="13"/>
+        <value type="int" value="10"/>
+      </property>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.027450980392156876"/>
+        <value type="double" value="0.05882352941176474"/>
+        <value type="double" value="0.16862745098039217"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="output-name" type="string" value="eDP"/>
+      <property name="length-adjust" type="bool" value="true"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="false"/>
+      <property name="show-handle" type="bool" value="false"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="javaembeddedframe"/>
+        <value type="string" value="sunshine"/>
+        <value type="string" value="blueman-tray"/>
+        <value type="string" value="сетевое соединение wi-fi «honor» активно: honor (82%)"/>
+        <value type="string" value="сетевое соединение wi-fi «honor» активно: honor (89%)"/>
+        <value type="string" value="сетевое соединение wi-fi «honor» активно: honor (83%)"/>
+        <value type="string" value="сетевое соединение wi-fi «honor» активно: honor (81%)"/>
+        <value type="string" value="сетевое соединение wi-fi «honor» активно: honor (87%)"/>
+        <value type="string" value="flameshot"/>
+        <value type="string" value="megasync"/>
+        <value type="string" value="shutter"/>
+        <value type="string" value="fcitx5 tray window"/>
+        <value type="string" value="аплет networkmanager"/>
+        <value type="string" value="нет подключения к сети"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="vlc"/>
+        <value type="string" value="remmina-icon"/>
+        <value type="string" value="com.sayonara-player.Sayonara"/>
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="psensor"/>
+        <value type="string" value="MEGAsync"/>
+        <value type="string" value="flameshot"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="Fcitx"/>
+        <value type="string" value="blueman"/>
+      </property>
+      <property name="single-row" type="bool" value="true"/>
+      <property name="icon-size" type="int" value="22"/>
+      <property name="menu-is-primary" type="bool" value="false"/>
+      <property name="symbolic-icons" type="bool" value="true"/>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chromium.instance71594;elisa;firefox.instance106711;firefox.instance114302;firefox.instance125490;firefox.instance126227;firefox.instance13413;firefox.instance13666;firefox.instance16022;firefox.instance16756;firefox.instance17263;firefox.instance18313;firefox.instance19812;firefox.instance20276;firefox.instance20633;firefox.instance20843;firefox.instance21152;firefox.instance21810;firefox.instance2228;firefox.instance2322;firefox.instance2330;firefox.instance2386;firefox.instance24534;firefox.instance24719;firefox.instance2502;firefox.instance2554;firefox.instance25606;firefox.instance25964;firefox.instance26171;firefox.instance26867;firefox.instance27626;firefox.instance2859;firefox.instance2867;firefox.instance2958;firefox.instance29647;firefox.instance33373;firefox.instance34221;firefox.instance34553;firefox.instance3616;firefox.instance3620;firefox.instance36514;firefox.instance39569;firefox.instance3989;firefox.instance40733;firefox.instance5134;firefox.instance51723;firefox.instance52718;firefox.instance57223;firefox.instance6141;firefox.instance68191;firefox.instance7726;firefox.instance80799;firefox.instance85817;firefox.instance8896;firefox.instance89315;firefox.instance95751;firefox.instance_1_102;firefox.instance_1_120;firefox.instance_1_124;firefox.instance_1_136;firefox.instance_1_158;firefox.instance_1_168;firefox.instance_1_185;firefox.instance_1_197;firefox.instance_1_198;firefox.instance_1_222;firefox.instance_1_28;firefox.instance_1_29;firefox.instance_1_34;firefox.instance_1_352;firefox.instance_1_363;firefox.instance_1_368;firefox.instance_1_372;firefox.instance_1_40;firefox.instance_1_450;firefox.instance_1_46;firefox.instance_1_50;firefox.instance_1_517;firefox.instance_1_53;firefox.instance_1_574;firefox.instance_1_655;firefox.instance_1_67;firefox.instance_1_687;firefox.instance_1_70;firefox.instance_1_713;firefox.instance_1_72;sayonara;vlc"/>
+      <property name="enable-wnck" type="bool" value="false"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="tooltip-format" type="string" value="%x"/>
+      <property name="digital-layout" type="uint" value="3"/>
+    </property>
+    <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="false"/>
+    </property>
+    <property name="plugin-1" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-5" type="string" value="wavelan"/>
+  </property>
+</channel>

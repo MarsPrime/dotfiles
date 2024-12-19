@@ -1,0 +1,71 @@
+[Hotkey]
+# Перечислять при повторном нажатии клавиши-триггера
+EnumerateWithTriggerKeys=True
+# Временное переключение между основным и текущим методом ввода
+AltTriggerKeys=
+# Перечислить методы ввода в прямом порядке
+EnumerateForwardKeys=
+# Перечислить методы ввода в обратном порядке
+EnumerateBackwardKeys=
+# Пропустить первый метод ввода при перечислении
+EnumerateSkipFirst=False
+
+[Hotkey/TriggerKeys]
+0=Super+space
+1=Zenkaku_Hankaku
+
+[Hotkey/EnumerateGroupForwardKeys]
+0=Shift+Super+Shift_L
+
+[Hotkey/EnumerateGroupBackwardKeys]
+0=Shift+Super+space
+
+[Hotkey/ActivateKeys]
+0=Hangul_Hanja
+
+[Hotkey/DeactivateKeys]
+0=Hangul_Romaja
+
+[Hotkey/PrevPage]
+0=Up
+
+[Hotkey/NextPage]
+0=Down
+
+[Hotkey/PrevCandidate]
+0=Shift+Tab
+
+[Hotkey/NextCandidate]
+0=Tab
+
+[Hotkey/TogglePreedit]
+0=Control+Alt+P
+
+[Behavior]
+# Активен по умолчанию
+ActiveByDefault=False
+# Поделиться состоянием ввода
+ShareInputState=No
+# Показать предварительное редактирование в приложении
+PreeditEnabledByDefault=True
+# Показывать информацию о методе ввода при переключении
+ShowInputMethodInformation=True
+# Показывать информацию о способе ввода при изменении фокуса
+showInputMethodInformationWhenFocusIn=False
+# Показать информацию о компактном методе ввода
+CompactInputMethodInformation=True
+# Показать информацию о первом методе ввода
+ShowFirstInputMethodInformation=True
+# Размер страницы по умолчанию
+DefaultPageSize=5
+# Переопределить параметр Xkb
+OverrideXkbOption=False
+# Пользовательский вариант Xkb
+CustomXkbOption=
+# Force Enabled Addons
+EnabledAddons=
+# Force Disabled Addons
+DisabledAddons=
+# Preload input method to be used by default
+PreloadInputMethod=True
+

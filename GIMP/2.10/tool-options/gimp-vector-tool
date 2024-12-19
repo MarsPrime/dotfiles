@@ -1,0 +1,10 @@
+# GIMP gimp-vector-tool options
+
+(foreground (color-rgb 0.074509803921568626 0.094117647058823528 0.25882352941176473))
+(brush "2. Block 01")
+(dynamics "Dynamics Off")
+(pattern "Pine")
+(gradient "Standard")
+(palette "Standard")
+
+# end of gimp-vector-tool options

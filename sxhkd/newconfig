@@ -1,0 +1,42 @@
+#system
+
+#open terminal
+super + Return
+     tilix
+ 
+#close window
+super + {_, shift +} w
+     bspc node -{c,k}
+
+#restart or quit bspwm 
+super + alt + {q, r}
+     bspc {quit, wm -r}
+
+#reload sxhkd
+super + escape
+     pkill -USR1 -x sxhkd
+
+#volume up and down or mute speakers 
+{X86AudioRaiseVolume, X86AudioLowerVolume}
+     pamixer -{i, d} 2
+X86AudioMute
+     pamixer -t
+
+#birghtness up or down
+{X86MonBrightnessUp, X86MonBrightnessDown}
+     brightnessctl s {10+, 10-}
+
+#creating screenshots
+Print
+     flameshot gui
+
+
+#window managemnet
+
+super + {h, j, k, l}
+     bcps node {west, south, north, east}
+
+super + alt + {h, j, k, l}
+     
+     
+

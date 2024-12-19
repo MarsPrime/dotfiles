@@ -1,0 +1,52 @@
+# settings
+
+(GimpGegl-gegl-normal-map-config "2024-11-22 14:29:24"
+    (time 1732260564)
+    (scale 137.37)
+    (x-component red)
+    (y-component green)
+    (flip-x no)
+    (flip-y no)
+    (full-z no)
+    (tileable no))
+(GimpGegl-gegl-normal-map-config "2024-11-20 18:06:45"
+    (time 1732100805)
+    (gimp-clip clip)
+    (scale 27.32)
+    (x-component red)
+    (y-component green)
+    (flip-x no)
+    (flip-y yes)
+    (full-z no)
+    (tileable no))
+(GimpGegl-gegl-normal-map-config "2024-11-20 16:40:23"
+    (time 1732095623)
+    (scale 10)
+    (x-component red)
+    (y-component green)
+    (flip-x no)
+    (flip-y no)
+    (full-z no)
+    (tileable no))
+(GimpGegl-gegl-normal-map-config "2024-11-20 16:27:11"
+    (time 1732094831)
+    (gimp-mode normal)
+    (scale 34.909999999999997)
+    (x-component red)
+    (y-component green)
+    (flip-x no)
+    (flip-y no)
+    (full-z no)
+    (tileable no))
+(GimpGegl-gegl-normal-map-config "2024-11-20 16:02:06"
+    (time 1732093326)
+    (gimp-mode normal-legacy)
+    (scale 23.530000000000001)
+    (x-component red)
+    (y-component green)
+    (flip-x no)
+    (flip-y no)
+    (full-z no)
+    (tileable yes))
+
+# end of settings

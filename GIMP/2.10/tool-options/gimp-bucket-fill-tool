@@ -1,0 +1,14 @@
+# GIMP gimp-bucket-fill-tool options
+
+(foreground (color-rgb 0.074509803921568626 0.094117647058823528 0.25882352941176473))
+(paint-mode normal-legacy)
+(pattern "Pine")
+(brush-size 51)
+(brush-hardness 0.5)
+(fill-mode bg)
+(sample-merged yes)
+(antialias no)
+(feather yes)
+(threshold 255)
+
+# end of gimp-bucket-fill-tool options

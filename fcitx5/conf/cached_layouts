@@ -1,0 +1,3560 @@
+[keyboard-apl]
+Description="Клавиатура - APL"
+Language=en
+Label=apl
+
+[keyboard-apl-dyalog]
+Description="Клавиатура - APL - Символы APL (Dyalog APL)"
+Language=en
+Label=dlg
+
+[keyboard-apl-sax]
+Description="Клавиатура - APL - Символы APL (SAX, Sharp APL для Unix)"
+Language=en
+Label=sax
+
+[keyboard-apl-unified]
+Description="Клавиатура - APL - Символы APL (унифицированные)"
+Language=en
+Label=ufd
+
+[keyboard-apl-apl2]
+Description="Клавиатура - APL - Символы APL (IBM APL2)"
+Language=en
+Label=apl2
+
+[keyboard-apl-aplplusII]
+Description="Клавиатура - APL - Символы APL (Manugistics APL*PLUS II)"
+Language=en
+Label=aplII
+
+[keyboard-apl-aplx]
+Description="Клавиатура - APL - Символы APL (унифицированная APLX)"
+Language=en
+Label=aplx
+
+[keyboard-jv]
+Description="Клавиатура - Индонезийская (ява́нская)"
+Language=jv
+Label=jv
+
+[keyboard-tz]
+Description="Клавиатура - Суахильская (Танзания)"
+Language=sw
+Label=sw
+
+[keyboard-brai]
+Description="Клавиатура - Брайля"
+Language=
+Label=brl
+
+[keyboard-brai-left_hand]
+Description="Клавиатура - Брайля - Брайля (под левую руку)"
+Language=
+Label=brai
+
+[keyboard-brai-left_hand_invert]
+Description="Клавиатура - Брайля - Брайля (под левую руку с обратным большим пальцем)"
+Language=
+Label=brai
+
+[keyboard-brai-right_hand]
+Description="Клавиатура - Брайля - Брайля (под правую руку)"
+Language=
+Label=brai
+
+[keyboard-brai-right_hand_invert]
+Description="Клавиатура - Брайля - Брайля (под правую руку с обратным большим пальцем)"
+Language=
+Label=brai
+
+[keyboard-et]
+Description="Клавиатура - Амхарская"
+Language=am
+Label=am
+
+[keyboard-tm]
+Description="Клавиатура - Туркменская"
+Language=tk
+Label=tk
+
+[keyboard-tm-alt]
+Description="Клавиатура - Туркменская - Туркменская (Alt-Q)"
+Language=tk
+Label=tm
+
+[keyboard-np]
+Description="Клавиатура - Непальская"
+Language=ne
+Label=ne
+
+[keyboard-epo]
+Description="Клавиатура - Эсперанто"
+Language=eo
+Label=eo
+
+[keyboard-epo-legacy]
+Description="Клавиатура - Эсперанто - Эсперанто (устаревшая)"
+Language=eo
+Label=epo
+
+[keyboard-eu]
+Description="Клавиатура - EurKEY (США)"
+Language=ca
+Label=eu
+
+[keyboard-za]
+Description="Клавиатура - Английская (Южная Африка)"
+Language=en
+Label=en
+
+[keyboard-bw]
+Description="Клавиатура - Тсванская"
+Language=tn
+Label=tn
+
+[keyboard-kr]
+Description="Клавиатура - Корейская"
+Language=ko
+Label=ko
+
+[keyboard-kr-kr104]
+Description="Клавиатура - Корейская - Корейская (совместимая c 101/104 кнопочной)"
+Language=ko
+Label=kr
+
+[keyboard-kr-sun_type6]
+Description="Клавиатура - Корейская - Корейская (Sun Type 6/7)"
+Language=ko
+Label=kr
+
+[keyboard-gb]
+Description="Клавиатура - Английская (Великобритания)"
+Language=en
+Label=en
+
+[keyboard-gb-extd]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, расширенная, Windows)"
+Language=en
+Label=gb
+
+[keyboard-gb-intl]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, междунар., с спецклавишами)"
+Language=en
+Label=gb
+
+[keyboard-gb-dvorak]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, Дворак)"
+Language=en
+Label=gb
+
+[keyboard-gb-dvorakukp]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, Дворак, с английской пунктуацией)"
+Language=en
+Label=gb
+
+[keyboard-gb-mac]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, Macintosh)"
+Language=en
+Label=gb
+
+[keyboard-gb-mac_intl]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, Macintosh, междунар.)"
+Language=en
+Label=gb
+
+[keyboard-gb-colemak]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, Коулмак)"
+Language=en
+Label=gb
+
+[keyboard-gb-colemak_dh]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, Коулмак-DH)"
+Language=en
+Label=gb
+
+[keyboard-gb-pl]
+Description="Клавиатура - Английская (Великобритания) - Польская (британская клавиатура)"
+Language=pl
+Label=pl
+
+[keyboard-gb-gla]
+Description="Клавиатура - Английская (Великобритания) - Гэльский шотландский"
+Language=en
+Label=gd
+
+[keyboard-gb-sun_type6]
+Description="Клавиатура - Английская (Великобритания) - Английская (Великобритания, Sun Type 6/7)"
+Language=en
+Label=gb
+
+[keyboard-ua]
+Description="Клавиатура - Украинская"
+Language=uk
+Label=uk
+
+[keyboard-ua-phonetic]
+Description="Клавиатура - Украинская - Украинская (фонетическая)"
+Language=uk
+Label=ua
+
+[keyboard-ua-typewriter]
+Description="Клавиатура - Украинская - Украинская (машинописная)"
+Language=uk
+Label=ua
+
+[keyboard-ua-winkeys]
+Description="Клавиатура - Украинская - Украинская (Windows)"
+Language=uk
+Label=ua
+
+[keyboard-ua-macOS]
+Description="Клавиатура - Украинская - Украинская (macOS)"
+Language=uk
+Label=ua
+
+[keyboard-ua-legacy]
+Description="Клавиатура - Украинская - Украинская (устаревшая)"
+Language=uk
+Label=ua
+
+[keyboard-ua-rstu]
+Description="Клавиатура - Украинская - Украинская (стандартная RSTU)"
+Language=uk
+Label=ua
+
+[keyboard-ua-rstu_ru]
+Description="Клавиатура - Украинская - Русская (Украина, стандартная RSTU)"
+Language=uk
+Label=ua
+
+[keyboard-ua-homophonic]
+Description="Клавиатура - Украинская - Украинская (омофоническая)"
+Language=uk
+Label=ua
+
+[keyboard-ua-crh]
+Description="Клавиатура - Украинская - Крымско-татарская (турецкая Q)"
+Language=crh
+Label=crh
+
+[keyboard-ua-crh_f]
+Description="Клавиатура - Украинская - Крымско-татарская (турецкая F)"
+Language=crh
+Label=crh
+
+[keyboard-ua-crh_alt]
+Description="Клавиатура - Украинская - Крымско-татарская (турецкая Alt-Q)"
+Language=crh
+Label=crh
+
+[keyboard-ua-sun_type6]
+Description="Клавиатура - Украинская - Украинская (Sun Type 6/7)"
+Language=uk
+Label=ua
+
+[keyboard-th]
+Description="Клавиатура - Тайская"
+Language=th
+Label=th
+
+[keyboard-th-tis]
+Description="Клавиатура - Тайская - Тайская (TIS-820.2538)"
+Language=th
+Label=th
+
+[keyboard-th-pat]
+Description="Клавиатура - Тайская - Тайская (паттачотская)"
+Language=th
+Label=th
+
+[keyboard-mv]
+Description="Клавиатура - Дивехи"
+Language=dv
+Label=dv
+
+[keyboard-tj]
+Description="Клавиатура - Таджикская"
+Language=tg
+Label=tg
+
+[keyboard-tj-legacy]
+Description="Клавиатура - Таджикская - Таджикская (устаревшая)"
+Language=tg
+Label=tj
+
+[keyboard-sk]
+Description="Клавиатура - Словацкая"
+Language=sk
+Label=sk
+
+[keyboard-sk-bksl]
+Description="Клавиатура - Словацкая - Словацкая (расширенные функции backslash)"
+Language=sk
+Label=sk
+
+[keyboard-sk-qwerty]
+Description="Клавиатура - Словацкая - Словацкая (QWERTY)"
+Language=sk
+Label=sk
+
+[keyboard-sk-qwerty_bksl]
+Description="Клавиатура - Словацкая - Словацкая (QWERTY, расширенные функции backslash)"
+Language=sk
+Label=sk
+
+[keyboard-sk-acc]
+Description="Клавиатура - Словацкая - Словацкая (раскладка ACC, только символы акцентов)"
+Language=sk
+Label=sk
+
+[keyboard-sk-sun_type6]
+Description="Клавиатура - Словацкая - Словацкая (Sun Type 6/7)"
+Language=sk
+Label=sk
+
+[keyboard-ru]
+Description="Клавиатура - Русская"
+Language=ru
+Label=ru
+
+[keyboard-ru-phonetic]
+Description="Клавиатура - Русская - Русская (фонетическая)"
+Language=ru
+Label=ru
+
+[keyboard-ru-phonetic_winkeys]
+Description="Клавиатура - Русская - Русская (фонетическая, Windows)"
+Language=ru
+Label=ru
+
+[keyboard-ru-phonetic_YAZHERTY]
+Description="Клавиатура - Русская - Русская (фонетическая, ЯЖЕРТЫ)"
+Language=ru
+Label=ru
+
+[keyboard-ru-typewriter]
+Description="Клавиатура - Русская - Русская (машинописная)"
+Language=ru
+Label=ru
+
+[keyboard-ru-legacy]
+Description="Клавиатура - Русская - Русская (устаревшая)"
+Language=ru
+Label=ru
+
+[keyboard-ru-typewriter-legacy]
+Description="Клавиатура - Русская - Русская (машинописная, устаревшая)"
+Language=ru
+Label=ru
+
+[keyboard-ru-tt]
+Description="Клавиатура - Русская - Татарская"
+Language=tt
+Label=ru
+
+[keyboard-ru-os_legacy]
+Description="Клавиатура - Русская - Осетинская (устаревшая)"
+Language=os
+Label=ru
+
+[keyboard-ru-os_winkeys]
+Description="Клавиатура - Русская - Осетинская (Windows)"
+Language=os
+Label=ru
+
+[keyboard-ru-cv]
+Description="Клавиатура - Русская - Чувашия"
+Language=cv
+Label=ru
+
+[keyboard-ru-cv_latin]
+Description="Клавиатура - Русская - Чувашская (латиница)"
+Language=cv
+Label=ru
+
+[keyboard-ru-udm]
+Description="Клавиатура - Русская - Удмуртская"
+Language=udm
+Label=ru
+
+[keyboard-ru-kom]
+Description="Клавиатура - Русская - Коми"
+Language=kv
+Label=ru
+
+[keyboard-ru-sah]
+Description="Клавиатура - Русская - Якутская"
+Language=sah
+Label=ru
+
+[keyboard-ru-xal]
+Description="Клавиатура - Русская - Калмыцкая"
+Language=xal
+Label=ru
+
+[keyboard-ru-dos]
+Description="Клавиатура - Русская - Русская (DOS)"
+Language=ru
+Label=ru
+
+[keyboard-ru-mac]
+Description="Клавиатура - Русская - Русская (Macintosh)"
+Language=ru
+Label=ru
+
+[keyboard-ru-srp]
+Description="Клавиатура - Русская - Сербская (Россия)"
+Language=ru
+Label=ru
+
+[keyboard-ru-bak]
+Description="Клавиатура - Русская - Башкирская"
+Language=ba
+Label=ru
+
+[keyboard-ru-chm]
+Description="Клавиатура - Русская - Марийская"
+Language=chm
+Label=ru
+
+[keyboard-ru-phonetic_azerty]
+Description="Клавиатура - Русская - Русская (фонетическая, АЗЕРТЫ)"
+Language=ru
+Label=ru
+
+[keyboard-ru-phonetic_dvorak]
+Description="Клавиатура - Русская - Русская (фонетическая, Дворак)"
+Language=ru
+Label=ru
+
+[keyboard-ru-phonetic_fr]
+Description="Клавиатура - Русская - Русская (Франция, фонетическая)"
+Language=ru
+Label=ru
+
+[keyboard-ru-chu]
+Description="Клавиатура - Русская - Старославянская"
+Language=cu
+Label=ru
+
+[keyboard-ru-ruu]
+Description="Клавиатура - Русская - Русская (с украинско-белорусской раскладкой)"
+Language=ru
+Label=ru
+
+[keyboard-ru-rulemak]
+Description="Клавиатура - Русская - Русская (Рулмак, фонетическая, Коулмак)"
+Language=ru
+Label=ru
+
+[keyboard-ru-phonetic_mac]
+Description="Клавиатура - Русская - Русская (Macintosh, фонетическая)"
+Language=ru
+Label=ru
+
+[keyboard-ru-sun_type6]
+Description="Клавиатура - Русская - Русская (Sun Type 6/7)"
+Language=ru
+Label=ru
+
+[keyboard-ru-unipunct]
+Description="Клавиатура - Русская - Русская (с пунктуацией США)"
+Language=ru
+Label=ru
+
+[keyboard-ru-gost-6431-75-48]
+Description="Клавиатура - Русская - Русская (ГОСТ 6431-75)"
+Language=ru
+Label=ru
+
+[keyboard-ru-gost-14289-88]
+Description="Клавиатура - Русская - Русская (ГОСТ 14289-88)"
+Language=ru
+Label=ru
+
+[keyboard-ru-prxn]
+Description="Клавиатура - Русская - Русская (многоязычная и реакционная)"
+Language=ru
+Label=ru
+
+[keyboard-trans]
+Description="Клавиатура - Международный фонетический алфавит"
+Language=
+Label=ipa
+
+[keyboard-trans-qwerty]
+Description="Клавиатура - Международный фонетический алфавит - Международный фонетический алфавит (QWERTY)"
+Language=
+Label=trans
+
+[keyboard-ir]
+Description="Клавиатура - Персидская"
+Language=fa
+Label=fa
+
+[keyboard-ir-pes_keypad]
+Description="Клавиатура - Персидская - Персидская (с персидской доп. панелью)"
+Language=fa
+Label=ir
+
+[keyboard-ir-ku]
+Description="Клавиатура - Персидская - Курдская (Иран, латинская Q)"
+Language=ku
+Label=ku
+
+[keyboard-ir-ku_f]
+Description="Клавиатура - Персидская - Курдская (Иран, F)"
+Language=ku
+Label=ku
+
+[keyboard-ir-ku_alt]
+Description="Клавиатура - Персидская - Курдская (Иран, латинская Alt-Q)"
+Language=ku
+Label=ku
+
+[keyboard-ir-ku_ara]
+Description="Клавиатура - Персидская - Курдская (Иран, арабо-латинская)"
+Language=ku
+Label=ku
+
+[keyboard-ir-ave]
+Description="Клавиатура - Персидская - Авестийская"
+Language=ae
+Label=ir
+
+[keyboard-ng]
+Description="Клавиатура - Английская (Нигерия)"
+Language=en
+Label=en
+
+[keyboard-ng-igbo]
+Description="Клавиатура - Английская (Нигерия) - Игбо"
+Language=ig
+Label=ig
+
+[keyboard-ng-yoruba]
+Description="Клавиатура - Английская (Нигерия) - Йорубская"
+Language=yo
+Label=yo
+
+[keyboard-ng-hausa]
+Description="Клавиатура - Английская (Нигерия) - Хауза (Нигерия)"
+Language=ha
+Label=ha
+
+[keyboard-is]
+Description="Клавиатура - Исландская"
+Language=is
+Label=is
+
+[keyboard-is-mac_legacy]
+Description="Клавиатура - Исландская - Исландская (Macintosh, устаревшая)"
+Language=is
+Label=is
+
+[keyboard-is-mac]
+Description="Клавиатура - Исландская - Исландская (Macintosh)"
+Language=is
+Label=is
+
+[keyboard-is-dvorak]
+Description="Клавиатура - Исландская - Исландская (Дворак)"
+Language=is
+Label=is
+
+[keyboard-es]
+Description="Клавиатура - Испанская"
+Language=es
+Label=es
+
+[keyboard-es-nodeadkeys]
+Description="Клавиатура - Испанская - Испанская (без спецклавиш)"
+Language=es
+Label=es
+
+[keyboard-es-winkeys]
+Description="Клавиатура - Испанская - Испанская (Windows)"
+Language=es
+Label=es
+
+[keyboard-es-deadtilde]
+Description="Клавиатура - Испанская - Испанская (dead tilde)"
+Language=es
+Label=es
+
+[keyboard-es-dvorak]
+Description="Клавиатура - Испанская - Испанская (Дворак)"
+Language=es
+Label=es
+
+[keyboard-es-ast]
+Description="Клавиатура - Испанская - Астурлеонская (испанская, с нижними точками у H и L)"
+Language=ast
+Label=ast
+
+[keyboard-es-cat]
+Description="Клавиатура - Испанская - Каталонская (испанский вариант с точкой в L посередине)"
+Language=ca
+Label=ca
+
+[keyboard-es-mac]
+Description="Клавиатура - Испанская - Испанская (Macintosh)"
+Language=es
+Label=es
+
+[keyboard-es-sun_type6]
+Description="Клавиатура - Испанская - Испанская (Sun Type 6/7)"
+Language=es
+Label=es
+
+[keyboard-ee]
+Description="Клавиатура - Эстонская"
+Language=et
+Label=et
+
+[keyboard-ee-nodeadkeys]
+Description="Клавиатура - Эстонская - Эстонская (без спецклавиш)"
+Language=et
+Label=ee
+
+[keyboard-ee-dvorak]
+Description="Клавиатура - Эстонская - Эстонская (Дворак)"
+Language=et
+Label=ee
+
+[keyboard-ee-us]
+Description="Клавиатура - Эстонская - Эстонская (США)"
+Language=et
+Label=ee
+
+[keyboard-ee-sun_type6]
+Description="Клавиатура - Эстонская - Эстонская (Sun Type 6/7)"
+Language=et
+Label=ee
+
+[keyboard-nl]
+Description="Клавиатура - Голландская"
+Language=nl
+Label=nl
+
+[keyboard-nl-us]
+Description="Клавиатура - Голландская - Голландская (США)"
+Language=nl
+Label=nl
+
+[keyboard-nl-mac]
+Description="Клавиатура - Голландская - Голландская (Macintosh)"
+Language=nl
+Label=nl
+
+[keyboard-nl-std]
+Description="Клавиатура - Голландская - Голландская (стандартная)"
+Language=nl
+Label=nl
+
+[keyboard-nl-sun_type6]
+Description="Клавиатура - Голландская - Голландская (Sun Type 6/7)"
+Language=nl
+Label=nl
+
+[keyboard-cz]
+Description="Клавиатура - Чешская"
+Language=cs
+Label=cs
+
+[keyboard-cz-bksl]
+Description="Клавиатура - Чешская - key)"
+Language=cs
+Label=cz
+
+[keyboard-cz-qwerty]
+Description="Клавиатура - Чешская - Чешская (QWERTY)"
+Language=cs
+Label=cz
+
+[keyboard-cz-qwerty_bksl]
+Description="Клавиатура - Чешская - Чешская (QWERTY, расширенные функции Backslash)"
+Language=cs
+Label=cz
+
+[keyboard-cz-qwerty-mac]
+Description="Клавиатура - Чешская - Чешская (QWERTY, Macintosh)"
+Language=cs
+Label=cz
+
+[keyboard-cz-ucw]
+Description="Клавиатура - Чешская - Чешская (UCW, только символы акцентов)"
+Language=cs
+Label=cz
+
+[keyboard-cz-dvorak-ucw]
+Description="Клавиатура - Чешская - Чешская (США, Дворак, с поддержкой UCW)"
+Language=cs
+Label=cz
+
+[keyboard-cz-rus]
+Description="Клавиатура - Чешская - Русская (Чехия, фонетическая)"
+Language=ru
+Label=ru
+
+[keyboard-cz-sun_type6]
+Description="Клавиатура - Чешская - Чешская (Sun Type 6/7)"
+Language=cs
+Label=cz
+
+[keyboard-cz-prog]
+Description="Клавиатура - Чешская - Чешская (для программирования)"
+Language=cs
+Label=cz
+
+[keyboard-cz-typo]
+Description="Клавиатура - Чешская - Чешская (типографская)"
+Language=cs
+Label=cz
+
+[keyboard-cz-coder]
+Description="Клавиатура - Чешская - Чешская (coder)"
+Language=cs
+Label=cz
+
+[keyboard-cz-prog_typo]
+Description="Клавиатура - Чешская - Чешская (для программирования, типографская)"
+Language=cs
+Label=cz
+
+[keyboard-se]
+Description="Клавиатура - Шведская"
+Language=sv
+Label=sv
+
+[keyboard-se-nodeadkeys]
+Description="Клавиатура - Шведская - Шведская (без спецклавиш)"
+Language=sv
+Label=se
+
+[keyboard-se-dvorak]
+Description="Клавиатура - Шведская - Шведская (Дворак)"
+Language=sv
+Label=se
+
+[keyboard-se-rus]
+Description="Клавиатура - Шведская - Русская (Швеция, фонетическая)"
+Language=ru
+Label=ru
+
+[keyboard-se-rus_nodeadkeys]
+Description="Клавиатура - Шведская - Русская (Швеция, фонетическая, без спецклавиш)"
+Language=ru
+Label=ru
+
+[keyboard-se-smi]
+Description="Клавиатура - Шведская - Северная Саамская (Швеция)"
+Language=se
+Label=se
+
+[keyboard-se-mac]
+Description="Клавиатура - Шведская - Шведская (Macintosh)"
+Language=sv
+Label=se
+
+[keyboard-se-svdvorak]
+Description="Клавиатура - Шведская - Шведская (Svdvorak)"
+Language=sv
+Label=se
+
+[keyboard-se-us_dvorak]
+Description="Клавиатура - Шведская - Шведская (Дворак, междунар.)"
+Language=sv
+Label=se
+
+[keyboard-se-us]
+Description="Клавиатура - Шведская - Шведская (США)"
+Language=sv
+Label=se
+
+[keyboard-se-swl]
+Description="Клавиатура - Шведская - Шведский язык жестов"
+Language=swl
+Label=se
+
+[keyboard-se-dvorak_a5]
+Description="Клавиатура - Шведская - Шведская (Дворак A5)"
+Language=sv
+Label=se
+
+[keyboard-se-sun_type6]
+Description="Клавиатура - Шведская - Шведская (Sun Type 6/7)"
+Language=sv
+Label=se
+
+[keyboard-se-ovd]
+Description="Клавиатура - Шведская - Эльвдальская (шведская с добавлением огонэк)"
+Language=ovd
+Label=se
+
+[keyboard-bg]
+Description="Клавиатура - Болгарская"
+Language=bg
+Label=bg
+
+[keyboard-bg-phonetic]
+Description="Клавиатура - Болгарская - Болгарская (традиционная фонетическая)"
+Language=bg
+Label=bg
+
+[keyboard-bg-bas_phonetic]
+Description="Клавиатура - Болгарская - Болгарская (новая фонетическая)"
+Language=bg
+Label=bg
+
+[keyboard-bg-bekl]
+Description="Клавиатура - Болгарская - Болгарская (расширенная)"
+Language=bg
+Label=bg
+
+[keyboard-md]
+Description="Клавиатура - Молдавская"
+Language=ro
+Label=md
+
+[keyboard-md-gag]
+Description="Клавиатура - Молдавская - Молдавская (гагаузская)"
+Language=gag
+Label=gag
+
+[keyboard-ke]
+Description="Клавиатура - Суахильская (Кения)"
+Language=sw
+Label=sw
+
+[keyboard-ke-kik]
+Description="Клавиатура - Суахильская (Кения) - Кикуйу"
+Language=ki
+Label=ki
+
+[keyboard-us]
+Description="Клавиатура - Английская (США)"
+Language=en
+Label=en
+
+[keyboard-us-chr]
+Description="Клавиатура - Английская (США) - Черокская"
+Language=chr
+Label=chr
+
+[keyboard-us-haw]
+Description="Клавиатура - Английская (США) - Гавайская"
+Language=haw
+Label=haw
+
+[keyboard-us-euro]
+Description="Клавиатура - Английская (США) - Английская (США, евро на клавише 5)"
+Language=en
+Label=us
+
+[keyboard-us-intl]
+Description="Клавиатура - Английская (США) - Английская (США, с спецклавишами)"
+Language=en
+Label=us
+
+[keyboard-us-alt-intl]
+Description="Клавиатура - Английская (США) - Английская (США, альт. междунар.)"
+Language=en
+Label=us
+
+[keyboard-us-colemak]
+Description="Клавиатура - Английская (США) - Английская (Коулмак)"
+Language=en
+Label=us
+
+[keyboard-us-colemak_dh]
+Description="Клавиатура - Английская (США) - Английская (Коулмак-DH)"
+Language=en
+Label=us
+
+[keyboard-us-colemak_dh_iso]
+Description="Клавиатура - Английская (США) - Английская (Коулмак-DH ISO)"
+Language=en
+Label=us
+
+[keyboard-us-dvorak]
+Description="Клавиатура - Английская (США) - Английская (Дворак)"
+Language=en
+Label=us
+
+[keyboard-us-dvorak-intl]
+Description="Клавиатура - Английская (США) - Английская (Дворак, междунар., с спецклавишами)"
+Language=en
+Label=us
+
+[keyboard-us-dvorak-alt-intl]
+Description="Клавиатура - Английская (США) - Английская (Дворак, альт. междунар.)"
+Language=en
+Label=us
+
+[keyboard-us-dvorak-l]
+Description="Клавиатура - Английская (США) - Английская (Дворак, под левую руку)"
+Language=en
+Label=us
+
+[keyboard-us-dvorak-r]
+Description="Клавиатура - Английская (США) - Английская (Дворак, под правую руку)"
+Language=en
+Label=us
+
+[keyboard-us-dvorak-classic]
+Description="Клавиатура - Английская (США) - Английская (Дворак, классическая)"
+Language=en
+Label=us
+
+[keyboard-us-dvp]
+Description="Клавиатура - Английская (США) - Английская (Дворак для программистов)"
+Language=en
+Label=us
+
+[keyboard-us-dvorak-mac]
+Description="Клавиатура - Английская (США) - Английская (Дворак, Macintosh)"
+Language=en
+Label=us
+
+[keyboard-us-symbolic]
+Description="Клавиатура - Английская (США) - Английская (США, символьная)"
+Language=en
+Label=us
+
+[keyboard-us-rus]
+Description="Клавиатура - Английская (США) - Русская (США, фонетическая)"
+Language=ru
+Label=ru
+
+[keyboard-us-mac]
+Description="Клавиатура - Английская (США) - Английская (Macintosh)"
+Language=en
+Label=us
+
+[keyboard-us-altgr-intl]
+Description="Клавиатура - Английская (США) - Английская (междунар. с спецклавишами (dead keys) AltGr)"
+Language=en
+Label=us
+
+[keyboard-us-olpc2]
+Description="Клавиатура - Английская (США) - Английская (переключение раскладки клавишами умножения/деления)"
+Language=en
+Label=us
+
+[keyboard-us-hbs]
+Description="Клавиатура - Английская (США) - Сербо-Хорватская (США)"
+Language=en
+Label=us
+
+[keyboard-us-norman]
+Description="Клавиатура - Английская (США) - Английская (Норман)"
+Language=en
+Label=us
+
+[keyboard-us-workman]
+Description="Клавиатура - Английская (США) - Английская (Воркман)"
+Language=en
+Label=us
+
+[keyboard-us-workman-intl]
+Description="Клавиатура - Английская (США) - Английская (Воркман, междунар., с спецклавишами)"
+Language=en
+Label=us
+
+[keyboard-us-intl-unicode]
+Description="Клавиатура - Английская (США) - Английская (США, междунар., объединённая с юникодным AltGr)"
+Language=en
+Label=us
+
+[keyboard-us-alt-intl-unicode]
+Description="Клавиатура - Английская (США) - Английская (США, междунар., объединённая с юникодным AltGr, альт.)"
+Language=en
+Label=us
+
+[keyboard-us-ats]
+Description="Клавиатура - Английская (США) - Атсинская"
+Language=en
+Label=us
+
+[keyboard-us-crd]
+Description="Клавиатура - Английская (США) - Салишская Кёр-д’Ален"
+Language=crd
+Label=us
+
+[keyboard-us-cz_sk_de]
+Description="Клавиатура - Английская (США) - Чехословацкая и немецкая (США)"
+Language=en
+Label=us
+
+[keyboard-us-cz_sk_pl_de_es_fi_sv]
+Description="Клавиатура - Английская (США) - Чешская, словацкая, польская, испанская, финская, шведская и немецкая (США)"
+Language=en
+Label=us
+
+[keyboard-us-drix]
+Description="Клавиатура - Английская (США) - Английская (Drix)"
+Language=en
+Label=us
+
+[keyboard-us-de_se_fi]
+Description="Клавиатура - Английская (США) - Немецкая, шведская и финская (США)"
+Language=en
+Label=us
+
+[keyboard-us-ibm238l]
+Description="Клавиатура - Английская (США) - Английская (США, арабская IBM 238_L)"
+Language=en
+Label=us
+
+[keyboard-us-sun_type6]
+Description="Клавиатура - Английская (США) - Английская (США, Sun Type 6/7)"
+Language=en
+Label=us
+
+[keyboard-us-carpalx]
+Description="Клавиатура - Английская (США) - Английская (Carpalx)"
+Language=en
+Label=us
+
+[keyboard-us-carpalx-intl]
+Description="Клавиатура - Английская (США) - Английская (Carpalx, междунар., с спецклавишами)"
+Language=en
+Label=us
+
+[keyboard-us-carpalx-altgr-intl]
+Description="Клавиатура - Английская (США) - Английская (Carpalx, междунар., с спецклавишами AltGr)"
+Language=en
+Label=us
+
+[keyboard-us-carpalx-full]
+Description="Клавиатура - Английская (США) - Английская (Carpalx, полная оптимизация)"
+Language=en
+Label=us
+
+[keyboard-us-carpalx-full-intl]
+Description="Клавиатура - Английская (США) - Английская (Carpalx, полная оптимизация, междунар., с спецклавишами)"
+Language=en
+Label=us
+
+[keyboard-us-carpalx-full-altgr-intl]
+Description="Клавиатура - Английская (США) - Английская (Carpalx, полная оптимизация, междунар., с спецклавишами AltGr)"
+Language=en
+Label=us
+
+[keyboard-us-3l]
+Description="Клавиатура - Английская (США) - Английская (3l)"
+Language=en
+Label=us
+
+[keyboard-us-3l-cros]
+Description="Клавиатура - Английская (США) - Английская (3l, chromebook)"
+Language=en
+Label=us
+
+[keyboard-us-3l-emacs]
+Description="Клавиатура - Английская (США) - Английская (3l, emacs)"
+Language=en
+Label=us
+
+[keyboard-us-scn]
+Description="Клавиатура - Английская (США) - Сицилийская (клавиатура США)"
+Language=en
+Label=us
+
+[keyboard-us-altgr-weur]
+Description="Клавиатура - Английская (США) - Английская (западно-европейская с спец. клавишами AltGr)"
+Language=en
+Label=us
+
+[keyboard-ge]
+Description="Клавиатура - Грузинская"
+Language=ka
+Label=ka
+
+[keyboard-ge-ergonomic]
+Description="Клавиатура - Грузинская - Georgian (эргономичная)"
+Language=ka
+Label=ge
+
+[keyboard-ge-mess]
+Description="Клавиатура - Грузинская - Грузинская (MESS)"
+Language=ka
+Label=ge
+
+[keyboard-ge-ru]
+Description="Клавиатура - Грузинская - Русская (Грузия)"
+Language=ru
+Label=ru
+
+[keyboard-ge-os]
+Description="Клавиатура - Грузинская - Осетинская (Грузия)"
+Language=os
+Label=ge
+
+[keyboard-hr]
+Description="Клавиатура - Хорватская"
+Language=hr
+Label=hr
+
+[keyboard-hr-alternatequotes]
+Description="Клавиатура - Хорватская - Хорватская (с кавычками ёлочками)"
+Language=hr
+Label=hr
+
+[keyboard-hr-unicode]
+Description="Клавиатура - Хорватская - Хорватская (с хорватскими диграфами)"
+Language=hr
+Label=hr
+
+[keyboard-hr-unicodeus]
+Description="Клавиатура - Хорватская - Хорватская (США, с хорватскими диграфами)"
+Language=hr
+Label=hr
+
+[keyboard-hr-us]
+Description="Клавиатура - Хорватская - Хорватская (США)"
+Language=hr
+Label=hr
+
+[keyboard-sy]
+Description="Клавиатура - Арабская (Сирия)"
+Language=syr
+Label=ar
+
+[keyboard-sy-syc]
+Description="Клавиатура - Арабская (Сирия) - Сирийская"
+Language=syr
+Label=syc
+
+[keyboard-sy-syc_phonetic]
+Description="Клавиатура - Арабская (Сирия) - Сирийская (фонетическая)"
+Language=syr
+Label=syc
+
+[keyboard-sy-ku]
+Description="Клавиатура - Арабская (Сирия) - Курдская (Сирия, латинская Q)"
+Language=ku
+Label=ku
+
+[keyboard-sy-ku_f]
+Description="Клавиатура - Арабская (Сирия) - Курдская (Сирия, F)"
+Language=ku
+Label=ku
+
+[keyboard-sy-ku_alt]
+Description="Клавиатура - Арабская (Сирия) - Курдская (Сирия, латинская Alt-Q)"
+Language=ku
+Label=ku
+
+[keyboard-ma]
+Description="Клавиатура - Арабская (Марокко)"
+Language=ary
+Label=ar
+
+[keyboard-ma-french]
+Description="Клавиатура - Арабская (Марокко) - Французская (Марокко)"
+Language=fr
+Label=fr
+
+[keyboard-ma-tifinagh]
+Description="Клавиатура - Арабская (Марокко) - Берберская (Марокко, тифинагская)"
+Language=
+Label=ber
+
+[keyboard-ma-tifinagh-alt]
+Description="Клавиатура - Арабская (Марокко) - Берберская (Марокко, альт. тифинагская)"
+Language=
+Label=ber
+
+[keyboard-ma-tifinagh-alt-phonetic]
+Description="Клавиатура - Арабская (Марокко) - Берберская (Марокко, тифинагская фонетическая, альт.)"
+Language=
+Label=ber
+
+[keyboard-ma-tifinagh-extended]
+Description="Клавиатура - Арабская (Марокко) - Берберская (Марокко, тифинагская расширенная)"
+Language=
+Label=ber
+
+[keyboard-ma-tifinagh-phonetic]
+Description="Клавиатура - Арабская (Марокко) - Берберская (Марокко, тифинагская фонетическая)"
+Language=
+Label=ber
+
+[keyboard-ma-tifinagh-extended-phonetic]
+Description="Клавиатура - Арабская (Марокко) - Берберская (Марокко, тифинагская расширенная фонетическая)"
+Language=
+Label=ber
+
+[keyboard-ma-rif]
+Description="Клавиатура - Арабская (Марокко) - Тарифитский"
+Language=rif
+Label=rif
+
+[keyboard-af]
+Description="Клавиатура - Дари"
+Language=drs
+Label=fa
+
+[keyboard-af-ps]
+Description="Клавиатура - Дари - Пуштунская"
+Language=ps
+Label=ps
+
+[keyboard-af-uz]
+Description="Клавиатура - Дари - Узбекская (Афганистан)"
+Language=uz
+Label=uz
+
+[keyboard-af-ps-olpc]
+Description="Клавиатура - Дари - Пуштунская (Афганистан, OLPC)"
+Language=ps
+Label=ps
+
+[keyboard-af-fa-olpc]
+Description="Клавиатура - Дари - Дари (Афганистан, OLPC)"
+Language=drs
+Label=fa
+
+[keyboard-af-uz-olpc]
+Description="Клавиатура - Дари - Узбекская (Афганистан, OLPC)"
+Language=uz
+Label=uz
+
+[keyboard-dz]
+Description="Клавиатура - Берберская (Алжир, латинский)"
+Language=tzm
+Label=kab
+
+[keyboard-dz-azerty-deadkeys]
+Description="Клавиатура - Берберская (Алжир, латинский) - Кабильская (раскладка AZERTY, с спец. клавишами)"
+Language=kab
+Label=kab
+
+[keyboard-dz-qwerty-gb-deadkeys]
+Description="Клавиатура - Берберская (Алжир, латинский) - Кабильская (раскладка QWERTY, Великобритания, с спец. клавишами)"
+Language=kab
+Label=kab
+
+[keyboard-dz-qwerty-us-deadkeys]
+Description="Клавиатура - Берберская (Алжир, латинский) - Кабильская (раскладка QWERTY, США, с спец. клавишами)"
+Language=kab
+Label=kab
+
+[keyboard-dz-ber]
+Description="Клавиатура - Берберская (Алжир, латинский) - Берберская (Алжир, тифинагский)"
+Language=kab
+Label=kab
+
+[keyboard-dz-ar]
+Description="Клавиатура - Берберская (Алжир, латинский) - Арабская (Алжир)"
+Language=ar
+Label=ar
+
+[keyboard-mn]
+Description="Клавиатура - Монгольская"
+Language=mn
+Label=mn
+
+[keyboard-pk]
+Description="Клавиатура - Урдская (Пакистан)"
+Language=ur
+Label=ur
+
+[keyboard-pk-urd-crulp]
+Description="Клавиатура - Урдская (Пакистан) - Урдская (Пакистан, CRULP)"
+Language=ur
+Label=pk
+
+[keyboard-pk-urd-nla]
+Description="Клавиатура - Урдская (Пакистан) - Урдская (Пакистан, NLA)"
+Language=ur
+Label=pk
+
+[keyboard-pk-ara]
+Description="Клавиатура - Урдская (Пакистан) - Арабская (Пакистан)"
+Language=ar
+Label=ar
+
+[keyboard-pk-snd]
+Description="Клавиатура - Урдская (Пакистан) - Синдхи"
+Language=sd
+Label=sd
+
+[keyboard-pk-urd-navees]
+Description="Клавиатура - Урдская (Пакистан) - Урдская (Пакистан, Navees)"
+Language=ur
+Label=pk
+
+[keyboard-au]
+Description="Клавиатура - Английская (Австралия)"
+Language=en
+Label=en
+
+[keyboard-ml]
+Description="Клавиатура - Баманская"
+Language=bm
+Label=bm
+
+[keyboard-ml-fr-oss]
+Description="Клавиатура - Баманская - Французская (Мали, альт.)"
+Language=fr
+Label=fr
+
+[keyboard-ml-us-mac]
+Description="Клавиатура - Баманская - Английская (Мали, США, Macintosh)"
+Language=en
+Label=en
+
+[keyboard-ml-us-intl]
+Description="Клавиатура - Баманская - Английская (Мали, США, междунар.)"
+Language=en
+Label=en
+
+[keyboard-vn]
+Description="Клавиатура - Вьетнамская"
+Language=vi
+Label=vi
+
+[keyboard-vn-us]
+Description="Клавиатура - Вьетнамская - Вьетнамская (США)"
+Language=vi
+Label=vn
+
+[keyboard-vn-fr]
+Description="Клавиатура - Вьетнамская - Вьетнамская (Франция)"
+Language=vi
+Label=vn
+
+[keyboard-vn-aderty]
+Description="Клавиатура - Вьетнамская - Вьетнамская (AÐERTY)"
+Language=vi
+Label=vn
+
+[keyboard-vn-qderty]
+Description="Клавиатура - Вьетнамская - Вьетнамская (QĐERTY)"
+Language=vi
+Label=vn
+
+[keyboard-ara]
+Description="Клавиатура - Арабская"
+Language=ar
+Label=ar
+
+[keyboard-ara-azerty]
+Description="Клавиатура - Арабская - Арабская (AZERTY)"
+Language=ar
+Label=ara
+
+[keyboard-ara-azerty_digits]
+Description="Клавиатура - Арабская - Арабская (AZERTY с восточно-арабскими цифрами)"
+Language=ar
+Label=ara
+
+[keyboard-ara-digits]
+Description="Клавиатура - Арабская - Арабская (восточно-арабские цифры)"
+Language=ar
+Label=ara
+
+[keyboard-ara-qwerty]
+Description="Клавиатура - Арабская - Арабская (QWERTY)"
+Language=ar
+Label=ara
+
+[keyboard-ara-qwerty_digits]
+Description="Клавиатура - Арабская - Арабская (QWERTY с восточно-арабскими цифрами)"
+Language=ar
+Label=ara
+
+[keyboard-ara-buckwalter]
+Description="Клавиатура - Арабская - Арабская (Buckwalter)"
+Language=ar
+Label=ara
+
+[keyboard-ara-olpc]
+Description="Клавиатура - Арабская - Арабская (OLPC)"
+Language=ar
+Label=ara
+
+[keyboard-ara-mac]
+Description="Клавиатура - Арабская - Арабская (Macintosh)"
+Language=ar
+Label=ara
+
+[keyboard-ara-sun_type6]
+Description="Клавиатура - Арабская - Арабская (Sun Type 6/7)"
+Language=ar
+Label=ara
+
+[keyboard-ara-basic_ext]
+Description="Клавиатура - Арабская - Арабская (арабские цифры, расширения в 4-м ряду)"
+Language=ar
+Label=ara
+
+[keyboard-ara-basic_ext_digits]
+Description="Клавиатура - Арабская - Арабская (восточно-арабские цифры, расширения в 4-м ряду)"
+Language=ar
+Label=ara
+
+[keyboard-ara-uga]
+Description="Клавиатура - Арабская - Угаритская вместо арабской"
+Language=ar
+Label=ara
+
+[keyboard-ara-ergoarabic]
+Description="Клавиатура - Арабская - Арабская (Эргоарабская)"
+Language=ar
+Label=ara
+
+[keyboard-ie]
+Description="Клавиатура - Ирландская"
+Language=en
+Label=ie
+
+[keyboard-ie-CloGaelach]
+Description="Клавиатура - Ирландская - CloGaelach"
+Language=ga
+Label=ie
+
+[keyboard-ie-UnicodeExpert]
+Description="Клавиатура - Ирландская - Ирландская (UnicodeExpert)"
+Language=en
+Label=ie
+
+[keyboard-ie-ogam]
+Description="Клавиатура - Ирландская - Огхам"
+Language=sga
+Label=ie
+
+[keyboard-ie-ogam_is434]
+Description="Клавиатура - Ирландская - Огхам (IS434)"
+Language=sga
+Label=ie
+
+[keyboard-cm]
+Description="Клавиатура - Английская (Камерун)"
+Language=en
+Label=cm
+
+[keyboard-cm-french]
+Description="Клавиатура - Английская (Камерун) - Французская (Камерун)"
+Language=fr
+Label=cm
+
+[keyboard-cm-qwerty]
+Description="Клавиатура - Английская (Камерун) - Камерунская многоязыковая (QWERTY, междунар.)"
+Language=en
+Label=cm
+
+[keyboard-cm-azerty]
+Description="Клавиатура - Английская (Камерун) - Камерунская многоязыковая (AZERTY, междунар.)"
+Language=fr
+Label=cm
+
+[keyboard-cm-dvorak]
+Description="Клавиатура - Английская (Камерун) - Английская (Дворак, междунар.)"
+Language=en
+Label=cm
+
+[keyboard-cm-mmuock]
+Description="Клавиатура - Английская (Камерун) - Mmuock"
+Language=en
+Label=cm
+
+[keyboard-kg]
+Description="Клавиатура - Киргизская"
+Language=ky
+Label=ki
+
+[keyboard-kg-phonetic]
+Description="Клавиатура - Киргизская - Киргизская (фонетическая)"
+Language=ky
+Label=kg
+
+[keyboard-ph]
+Description="Клавиатура - Филиппинская"
+Language=fil
+Label=ph
+
+[keyboard-ph-qwerty-bay]
+Description="Клавиатура - Филиппинская - Филиппинская (QWERTY, байбайинская)"
+Language=fil
+Label=ph
+
+[keyboard-ph-capewell-dvorak]
+Description="Клавиатура - Филиппинская - Филиппинская (Кэйпвелл-Дворак, латинская)"
+Language=fil
+Label=ph
+
+[keyboard-ph-capewell-dvorak-bay]
+Description="Клавиатура - Филиппинская - Филиппинская (Кэйпвелл-Дворак, байбайинcкая)"
+Language=fil
+Label=ph
+
+[keyboard-ph-capewell-qwerf2k6]
+Description="Клавиатура - Филиппинская - Филиппинская (Кэйпвелл-QWERF 2006, латинская)"
+Language=fil
+Label=ph
+
+[keyboard-ph-capewell-qwerf2k6-bay]
+Description="Клавиатура - Филиппинская - Филиппинская (Кэйпвелл-QWERF 2006, байбайинская)"
+Language=fil
+Label=ph
+
+[keyboard-ph-colemak]
+Description="Клавиатура - Филиппинская - Филиппинская (Коулмак, латинская)"
+Language=fil
+Label=ph
+
+[keyboard-ph-colemak-bay]
+Description="Клавиатура - Филиппинская - Филиппинская (Коулмак, байбайинская)"
+Language=fil
+Label=ph
+
+[keyboard-ph-dvorak]
+Description="Клавиатура - Филиппинская - Филиппинская (Дворак, латинская)"
+Language=fil
+Label=ph
+
+[keyboard-ph-dvorak-bay]
+Description="Клавиатура - Филиппинская - Филиппинская (Дворак, байбайинcкая)"
+Language=fil
+Label=ph
+
+[keyboard-bd]
+Description="Клавиатура - Бенгальская"
+Language=bn
+Label=bn
+
+[keyboard-bd-probhat]
+Description="Клавиатура - Бенгальская - Бенгальская (пробхат)"
+Language=bn
+Label=bd
+
+[keyboard-lk]
+Description="Клавиатура - Сингальская (фонетическая)"
+Language=si
+Label=si
+
+[keyboard-lk-tam_unicode]
+Description="Клавиатура - Сингальская (фонетическая) - Тамильская (Шри-Ланка, TamilNet '99)"
+Language=ta
+Label=ta
+
+[keyboard-lk-tam_TAB]
+Description="Клавиатура - Сингальская (фонетическая) - Тамильская (Шри-Ланка, TamilNet '99, кодировка TAB)"
+Language=ta
+Label=lk
+
+[keyboard-lk-us]
+Description="Клавиатура - Сингальская (фонетическая) - Сингальская (США)"
+Language=si
+Label=us
+
+[keyboard-al]
+Description="Клавиатура - Албанская"
+Language=sq
+Label=sq
+
+[keyboard-al-plisi]
+Description="Клавиатура - Албанская - Албанская (Plisi)"
+Language=sq
+Label=al
+
+[keyboard-al-veqilharxhi]
+Description="Клавиатура - Албанская - Албанская (Veqilharxhi)"
+Language=sq
+Label=al
+
+[keyboard-tw]
+Description="Клавиатура - Тайваньская"
+Language=
+Label=zh
+
+[keyboard-tw-indigenous]
+Description="Клавиатура - Тайваньская - Тайваньская (туземная)"
+Language=tay
+Label=tw
+
+[keyboard-tw-saisiyat]
+Description="Клавиатура - Тайваньская - Сайсьят (Тайвань)"
+Language=xsy
+Label=xsy
+
+[keyboard-rs]
+Description="Клавиатура - Сербская"
+Language=sr
+Label=sr
+
+[keyboard-rs-yz]
+Description="Клавиатура - Сербская - Сербская (кириллица, З и Ж переставлены местами)"
+Language=sr
+Label=rs
+
+[keyboard-rs-latin]
+Description="Клавиатура - Сербская - Сербская (латинская)"
+Language=sr
+Label=rs
+
+[keyboard-rs-latinunicode]
+Description="Клавиатура - Сербская - Сербская (латинская, юникодная)"
+Language=sr
+Label=rs
+
+[keyboard-rs-latinyz]
+Description="Клавиатура - Сербская - Сербская (латинская, QWERTY)"
+Language=sr
+Label=rs
+
+[keyboard-rs-latinunicodeyz]
+Description="Клавиатура - Сербская - Сербская (латинская, юникодная, QWERTY)"
+Language=sr
+Label=rs
+
+[keyboard-rs-alternatequotes]
+Description="Клавиатура - Сербская - Сербская (кириллица, с кавычками ёлочками)"
+Language=sr
+Label=rs
+
+[keyboard-rs-latinalternatequotes]
+Description="Клавиатура - Сербская - Сербская (латинская, с кавычками ёлочками)"
+Language=sr
+Label=rs
+
+[keyboard-rs-rue]
+Description="Клавиатура - Сербская - Паннонская русинская"
+Language=rue
+Label=rs
+
+[keyboard-rs-combiningkeys]
+Description="Клавиатура - Сербская - Сербская (объединённые надбуквенные знаки вместе спецклавиш (dead keys))"
+Language=sr
+Label=rs
+
+[keyboard-dk]
+Description="Клавиатура - Датская"
+Language=da
+Label=da
+
+[keyboard-dk-nodeadkeys]
+Description="Клавиатура - Датская - Датская (без спецклавиш)"
+Language=da
+Label=dk
+
+[keyboard-dk-winkeys]
+Description="Клавиатура - Датская - Датская (Windows)"
+Language=da
+Label=dk
+
+[keyboard-dk-mac]
+Description="Клавиатура - Датская - Датская (Macintosh)"
+Language=da
+Label=dk
+
+[keyboard-dk-mac_nodeadkeys]
+Description="Клавиатура - Датская - Датская (Macintosh, без спецклавиш)"
+Language=da
+Label=dk
+
+[keyboard-dk-dvorak]
+Description="Клавиатура - Датская - Датская (Дворак)"
+Language=da
+Label=dk
+
+[keyboard-dk-sun_type6]
+Description="Клавиатура - Датская - Датская (Sun Type 6/7)"
+Language=da
+Label=dk
+
+[keyboard-bt]
+Description="Клавиатура - Дзонг-кэ (dz"
+Language=dz
+Label=dz
+
+[keyboard-la]
+Description="Клавиатура - Лаосская"
+Language=lo
+Label=lo
+
+[keyboard-la-stea]
+Description="Клавиатура - Лаосская - Лаосская (STEA)"
+Language=lo
+Label=la
+
+[keyboard-mm]
+Description="Клавиатура - Бирманская"
+Language=my
+Label=my
+
+[keyboard-mm-zawgyi]
+Description="Клавиатура - Бирманская - Бирманская zawgyi"
+Language=my
+Label=zg
+
+[keyboard-mm-shn]
+Description="Клавиатура - Бирманская - Шанский"
+Language=shn
+Label=shn
+
+[keyboard-mm-zgt]
+Description="Клавиатура - Бирманская - Шанский (Зоджи тайский)"
+Language=shn
+Label=zgt
+
+[keyboard-mm-mnw]
+Description="Клавиатура - Бирманская - Mon"
+Language=mnw
+Label=mon
+
+[keyboard-mm-mnw-a1]
+Description="Клавиатура - Бирманская - Mon (A1)"
+Language=mnw
+Label=mon-a1
+
+[keyboard-si]
+Description="Клавиатура - Словенская"
+Language=sl
+Label=sl
+
+[keyboard-si-alternatequotes]
+Description="Клавиатура - Словенская - Словенская (с кавычками ёлочками)"
+Language=sl
+Label=si
+
+[keyboard-si-us]
+Description="Клавиатура - Словенская - Словенская (США)"
+Language=sl
+Label=si
+
+[keyboard-am]
+Description="Клавиатура - Армянская"
+Language=hy
+Label=hy
+
+[keyboard-am-phonetic]
+Description="Клавиатура - Армянская - Армянская (фонетическая)"
+Language=hy
+Label=am
+
+[keyboard-am-phonetic-alt]
+Description="Клавиатура - Армянская - Армянская (альт. фонетическая)"
+Language=hy
+Label=am
+
+[keyboard-am-eastern]
+Description="Клавиатура - Армянская - Армянская (восточная)"
+Language=hy
+Label=am
+
+[keyboard-am-western]
+Description="Клавиатура - Армянская - Армянская (западная)"
+Language=hy
+Label=am
+
+[keyboard-am-eastern-alt]
+Description="Клавиатура - Армянская - Армянская (альт. восточная)"
+Language=hy
+Label=am
+
+[keyboard-am-olpc-phonetic]
+Description="Клавиатура - Армянская - Армянская (OLPC, фонетическая)"
+Language=hy
+Label=am
+
+[keyboard-by]
+Description="Клавиатура - Белорусская"
+Language=be
+Label=by
+
+[keyboard-by-legacy]
+Description="Клавиатура - Белорусская - Белорусская (устаревшая)"
+Language=be
+Label=by
+
+[keyboard-by-latin]
+Description="Клавиатура - Белорусская - Белорусская (латиница)"
+Language=be
+Label=by
+
+[keyboard-by-ru]
+Description="Клавиатура - Белорусская - Русская (Беларусь)"
+Language=be
+Label=by
+
+[keyboard-by-intl]
+Description="Клавиатура - Белорусская - Белорусская (междунар.)"
+Language=be
+Label=by
+
+[keyboard-br]
+Description="Клавиатура - Португальская (Бразилия)"
+Language=pt
+Label=pt
+
+[keyboard-br-nodeadkeys]
+Description="Клавиатура - Португальская (Бразилия) - Португальская (Бразилия, без спецклавиш)"
+Language=pt
+Label=br
+
+[keyboard-br-dvorak]
+Description="Клавиатура - Португальская (Бразилия) - Португальская (Бразилия, Дворак)"
+Language=pt
+Label=br
+
+[keyboard-br-nativo]
+Description="Клавиатура - Португальская (Бразилия) - Португальская (Бразилия, навито)"
+Language=pt
+Label=br
+
+[keyboard-br-nativo-us]
+Description="Клавиатура - Португальская (Бразилия) - Португальская (Бразилия, навито для клавиатур США)"
+Language=pt
+Label=br
+
+[keyboard-br-nativo-epo]
+Description="Клавиатура - Португальская (Бразилия) - Эсперанто (Бразилия, навито)"
+Language=eo
+Label=br
+
+[keyboard-br-thinkpad]
+Description="Клавиатура - Португальская (Бразилия) - Португальская (Бразилия, IBM/Lenovo ThinkPad)"
+Language=pt
+Label=br
+
+[keyboard-br-sun_type6]
+Description="Клавиатура - Португальская (Бразилия) - Португальская (Бразилия, Sun Type 6/7)"
+Language=pt
+Label=br
+
+[keyboard-in]
+Description="Клавиатура - Индийская"
+Language=hi
+Label=in
+
+[keyboard-in-ben]
+Description="Клавиатура - Индийская - Бенгальская (Индия)"
+Language=bn
+Label=bn
+
+[keyboard-in-ben_probhat]
+Description="Клавиатура - Индийская - Бенгальская (Индия, пробхат)"
+Language=bn
+Label=bn
+
+[keyboard-in-ben_baishakhi]
+Description="Клавиатура - Индийская - Бенгальская (Индия, байшакхи)"
+Language=bn
+Label=in
+
+[keyboard-in-ben_bornona]
+Description="Клавиатура - Индийская - Бенгальская (Индия, борона)"
+Language=bn
+Label=in
+
+[keyboard-in-ben_gitanjali]
+Description="Клавиатура - Индийская - Бенгальская (Индия, гитанжали)"
+Language=bn
+Label=in
+
+[keyboard-in-ben_inscript]
+Description="Клавиатура - Индийская - Бенгальская (Индия, байшакхи InScript)"
+Language=bn
+Label=in
+
+[keyboard-in-eeyek]
+Description="Клавиатура - Индийская - Манипури (Eeyek)"
+Language=mni
+Label=in
+
+[keyboard-in-guj]
+Description="Клавиатура - Индийская - Гуджарати"
+Language=gu
+Label=gu
+
+[keyboard-in-guru]
+Description="Клавиатура - Индийская - Пенджабская (гурмукхи)"
+Language=pa
+Label=pa
+
+[keyboard-in-jhelum]
+Description="Клавиатура - Индийская - Пенджабская (гурмукхи Jhelum)"
+Language=pa
+Label=pa
+
+[keyboard-in-kan]
+Description="Клавиатура - Индийская - Каннада"
+Language=kn
+Label=kn
+
+[keyboard-in-kan-kagapa]
+Description="Клавиатура - Индийская - Каннадакская (KaGaPa, фонетическая)"
+Language=kn
+Label=kn
+
+[keyboard-in-mal]
+Description="Клавиатура - Индийская - Малайaлам"
+Language=ml
+Label=ml
+
+[keyboard-in-mal_lalitha]
+Description="Клавиатура - Индийская - Малайaламская (лалита)"
+Language=ml
+Label=ml
+
+[keyboard-in-mal_enhanced]
+Description="Клавиатура - Индийская - Малайaламская (улучшенная InScript, с символом рупии)"
+Language=ml
+Label=ml
+
+[keyboard-in-ori]
+Description="Клавиатура - Индийская - Орийя"
+Language=or
+Label=or
+
+[keyboard-in-ori-bolnagri]
+Description="Клавиатура - Индийская - Орийя (Bolnagri)"
+Language=or
+Label=or
+
+[keyboard-in-ori-wx]
+Description="Клавиатура - Индийская - Орийя (Wx)"
+Language=or
+Label=or
+
+[keyboard-in-olck]
+Description="Клавиатура - Индийская - Ол-чики"
+Language=sat
+Label=sat
+
+[keyboard-in-tam_tamilnet]
+Description="Клавиатура - Индийская - Тамильская (TamilNet '99)"
+Language=ta
+Label=ta
+
+[keyboard-in-tam_tamilnet_with_tam_nums]
+Description="Клавиатура - Индийская - Тамильская (TamilNet '99 с тамильскими цифрами)"
+Language=ta
+Label=ta
+
+[keyboard-in-tam_tamilnet_TAB]
+Description="Клавиатура - Индийская - Тамильская (TamilNet '99, кодировка TAB)"
+Language=ta
+Label=ta
+
+[keyboard-in-tam_tamilnet_TSCII]
+Description="Клавиатура - Индийская - Тамильская (TamilNet '99, кодировка TSCII)"
+Language=ta
+Label=ta
+
+[keyboard-in-tam]
+Description="Клавиатура - Индийская - Тамильская (InScript)"
+Language=ta
+Label=ta
+
+[keyboard-in-tel]
+Description="Клавиатура - Индийская - Телугская"
+Language=te
+Label=te
+
+[keyboard-in-tel-kagapa]
+Description="Клавиатура - Индийская - Телугская (KaGaPa, фонетическая)"
+Language=te
+Label=te
+
+[keyboard-in-tel-sarala]
+Description="Клавиатура - Индийская - Телугская (Sarala)"
+Language=te
+Label=te
+
+[keyboard-in-urd-phonetic]
+Description="Клавиатура - Индийская - Урдская (фонетическая)"
+Language=ur
+Label=ur
+
+[keyboard-in-urd-phonetic3]
+Description="Клавиатура - Индийская - Урдская (альт. фонетическая)"
+Language=ur
+Label=ur
+
+[keyboard-in-urd-winkeys]
+Description="Клавиатура - Индийская - Урдcкая (Windows)"
+Language=ur
+Label=ur
+
+[keyboard-in-bolnagri]
+Description="Клавиатура - Индийская - Хинди (Bolnagri)"
+Language=hi
+Label=hi
+
+[keyboard-in-hin-wx]
+Description="Клавиатура - Индийская - Хинди (Wx)"
+Language=hi
+Label=hi
+
+[keyboard-in-hin-kagapa]
+Description="Клавиатура - Индийская - Хинди (KaGaPa, фонетическая)"
+Language=hi
+Label=hi
+
+[keyboard-in-san-kagapa]
+Description="Клавиатура - Индийская - Санскритическая (KaGaPa, фонетическая)"
+Language=sa
+Label=sa
+
+[keyboard-in-mar-kagapa]
+Description="Клавиатура - Индийская - Маратхийская (KaGaPa, фонетическая)"
+Language=mr
+Label=mr
+
+[keyboard-in-eng]
+Description="Клавиатура - Индийская - Английская (Индия, с рупией)"
+Language=en
+Label=en
+
+[keyboard-in-iipa]
+Description="Клавиатура - Индийская - Индоарийская (МФА)"
+Language=en
+Label=in
+
+[keyboard-in-marathi]
+Description="Клавиатура - Индийская - Маратхи (улучшенная InScript)"
+Language=mr
+Label=in
+
+[keyboard-in-modi-kagapa]
+Description="Клавиатура - Индийская - Модинский (фонетика KaGaPa)"
+Language=mr
+Label=mr
+
+[keyboard-in-san-misc]
+Description="Клавиатура - Индийская - Символы санскрита"
+Language=sa
+Label=sas
+
+[keyboard-in-urd-navees]
+Description="Клавиатура - Индийская - Урдская (Navees)"
+Language=ur
+Label=ur
+
+[keyboard-be]
+Description="Клавиатура - Бельгийская"
+Language=de
+Label=be
+
+[keyboard-be-oss]
+Description="Клавиатура - Бельгийская - Бельгийская (альт.)"
+Language=de
+Label=be
+
+[keyboard-be-oss_latin9]
+Description="Клавиатура - Бельгийская - Бельгийская (только Latin-9, альт.)"
+Language=de
+Label=be
+
+[keyboard-be-iso-alternate]
+Description="Клавиатура - Бельгийская - Бельгийская (ISO, альт.)"
+Language=de
+Label=be
+
+[keyboard-be-nodeadkeys]
+Description="Клавиатура - Бельгийская - Бельгийская (без спецклавиш)"
+Language=de
+Label=be
+
+[keyboard-be-wang]
+Description="Клавиатура - Бельгийская - Бельгийская (Wang 724 AZERTY)"
+Language=de
+Label=be
+
+[keyboard-be-sun_type6]
+Description="Клавиатура - Бельгийская - Бельгийская (Sun Type 6/7)"
+Language=de
+Label=be
+
+[keyboard-eg]
+Description="Клавиатура - Коптская"
+Language=cop
+Label=cop
+
+[keyboard-cd]
+Description="Клавиатура - Французская (Демократическая республика Конго)"
+Language=fr
+Label=fr
+
+[keyboard-ba]
+Description="Клавиатура - Боснийская"
+Language=bs
+Label=bs
+
+[keyboard-ba-alternatequotes]
+Description="Клавиатура - Боснийская - Боснийская (с кавычками ёлочками)"
+Language=bs
+Label=ba
+
+[keyboard-ba-unicode]
+Description="Клавиатура - Боснийская - Боснийская (с боснийскими диграфами)"
+Language=bs
+Label=ba
+
+[keyboard-ba-unicodeus]
+Description="Клавиатура - Боснийская - Боснийская (США, с боснийскими диграфами)"
+Language=bs
+Label=ba
+
+[keyboard-ba-us]
+Description="Клавиатура - Боснийская - Боснийская (США)"
+Language=bs
+Label=ba
+
+[keyboard-lv]
+Description="Клавиатура - Латышская"
+Language=lv
+Label=lv
+
+[keyboard-lv-apostrophe]
+Description="Клавиатура - Латышская - Латышская (апостроф)"
+Language=lv
+Label=lv
+
+[keyboard-lv-tilde]
+Description="Клавиатура - Латышская - Латышская (тильда)"
+Language=lv
+Label=lv
+
+[keyboard-lv-fkey]
+Description="Клавиатура - Латышская - Латышская (F)"
+Language=lv
+Label=lv
+
+[keyboard-lv-modern]
+Description="Клавиатура - Латышская - Латышская (современная)"
+Language=lv
+Label=lv
+
+[keyboard-lv-ergonomic]
+Description="Клавиатура - Латышская - Латышская (эргономичная, ŪGJRMV)"
+Language=lv
+Label=lv
+
+[keyboard-lv-adapted]
+Description="Клавиатура - Латышская - Латышская (адаптированная)"
+Language=lv
+Label=lv
+
+[keyboard-lv-dvorak]
+Description="Клавиатура - Латышская - Латышская (Дворак)"
+Language=lv
+Label=lv
+
+[keyboard-lv-ykeydvorak]
+Description="Клавиатура - Латышская - Латышская (Дворак, вариант с Y)"
+Language=lv
+Label=lv
+
+[keyboard-lv-minuskeydvorak]
+Description="Клавиатура - Латышская - Латышская (Дворак, вариант с минусом)"
+Language=lv
+Label=lv
+
+[keyboard-lv-dvorakprogr]
+Description="Клавиатура - Латышская - Латышская (Дворак для программистов)"
+Language=lv
+Label=lv
+
+[keyboard-lv-ykeydvorakprogr]
+Description="Клавиатура - Латышская - Латышская (Дворак для программистов, вариант с Y)"
+Language=lv
+Label=lv
+
+[keyboard-lv-minuskeydvorakprogr]
+Description="Клавиатура - Латышская - Латышская (Дворак для программистов, вариант с минусом)"
+Language=lv
+Label=lv
+
+[keyboard-lv-colemak]
+Description="Клавиатура - Латышская - Латышская (Коулмак)"
+Language=lv
+Label=lv
+
+[keyboard-lv-apostrophecolemak]
+Description="Клавиатура - Латышская - Латышская (Коулмак, вариант с апострофом)"
+Language=lv
+Label=lv
+
+[keyboard-lv-sun_type6]
+Description="Клавиатура - Латышская - Латышская (Sun Type 6/7)"
+Language=lv
+Label=lv
+
+[keyboard-lv-apostrophe-deadquotes]
+Description="Клавиатура - Латышская - Латышская (вариант с апострофом, специальные кавычки)"
+Language=lv
+Label=lv
+
+[keyboard-me]
+Description="Клавиатура - Черногорская"
+Language=sr
+Label=sr
+
+[keyboard-me-cyrillic]
+Description="Клавиатура - Черногорская - Черногорская (кириллица)"
+Language=sr
+Label=me
+
+[keyboard-me-cyrillicyz]
+Description="Клавиатура - Черногорская - Черногорская (кириллица, З и Ж переставлены местами)"
+Language=sr
+Label=me
+
+[keyboard-me-latinunicode]
+Description="Клавиатура - Черногорская - Черногорская (латинская, юникодная)"
+Language=sr
+Label=me
+
+[keyboard-me-latinyz]
+Description="Клавиатура - Черногорская - Черногорская (латинская, QWERTY)"
+Language=sr
+Label=me
+
+[keyboard-me-latinunicodeyz]
+Description="Клавиатура - Черногорская - Черногорская (латинская, юникодная, QWERTY)"
+Language=sr
+Label=me
+
+[keyboard-me-cyrillicalternatequotes]
+Description="Клавиатура - Черногорская - Черногорская (кириллица, с кавычками ёлочками)"
+Language=sr
+Label=me
+
+[keyboard-me-latinalternatequotes]
+Description="Клавиатура - Черногорская - Черногорская (латинская, с кавычками ёлочками)"
+Language=sr
+Label=me
+
+[keyboard-at]
+Description="Клавиатура - Немецкая (Австрия)"
+Language=de
+Label=de
+
+[keyboard-at-nodeadkeys]
+Description="Клавиатура - Немецкая (Австрия) - Немецкая (Австрия, без спецклавиш)"
+Language=de
+Label=at
+
+[keyboard-at-mac]
+Description="Клавиатура - Немецкая (Австрия) - Немецкая (Австрия, Macintosh)"
+Language=de
+Label=at
+
+[keyboard-ch]
+Description="Клавиатура - Немецкая (Швейцария)"
+Language=de
+Label=de
+
+[keyboard-ch-legacy]
+Description="Клавиатура - Немецкая (Швейцария) - Немецкая (Швейцария, устаревшая)"
+Language=de
+Label=ch
+
+[keyboard-ch-de_nodeadkeys]
+Description="Клавиатура - Немецкая (Швейцария) - Немецкая (Швейцария, без спецклавиш)"
+Language=de
+Label=de
+
+[keyboard-ch-fr]
+Description="Клавиатура - Немецкая (Швейцария) - Французская (Швейцария)"
+Language=fr
+Label=fr
+
+[keyboard-ch-fr_nodeadkeys]
+Description="Клавиатура - Немецкая (Швейцария) - Французская (Швейцария, без спецклавиш)"
+Language=fr
+Label=fr
+
+[keyboard-ch-fr_mac]
+Description="Клавиатура - Немецкая (Швейцария) - Французская (Швейцария, Macintosh)"
+Language=fr
+Label=fr
+
+[keyboard-ch-de_mac]
+Description="Клавиатура - Немецкая (Швейцария) - Немецкая (Швейцария, Macintosh)"
+Language=de
+Label=de
+
+[keyboard-ch-sun_type6_de]
+Description="Клавиатура - Немецкая (Швейцария) - Немецкая (Швейцария, Sun Type 6/7)"
+Language=de
+Label=ch
+
+[keyboard-ch-sun_type6_fr]
+Description="Клавиатура - Немецкая (Швейцария) - Французская (Швейцария, Sun Type 6/7)"
+Language=de
+Label=ch
+
+[keyboard-kz]
+Description="Клавиатура - Казахская"
+Language=kk
+Label=kk
+
+[keyboard-kz-ruskaz]
+Description="Клавиатура - Казахская - Русская (Казахстан, с казахской)"
+Language=ru
+Label=ru
+
+[keyboard-kz-kazrus]
+Description="Клавиатура - Казахская - Казахская (с русским)"
+Language=kk
+Label=kz
+
+[keyboard-kz-ext]
+Description="Клавиатура - Казахская - Казахская (расширенная)"
+Language=kk
+Label=kz
+
+[keyboard-kz-latin]
+Description="Клавиатура - Казахская - Казахская (латинская)"
+Language=kk
+Label=kz
+
+[keyboard-iq]
+Description="Клавиатура - Иракская"
+Language=ar
+Label=ar
+
+[keyboard-iq-ku]
+Description="Клавиатура - Иракская - Курдская (Ирак, латинская Q)"
+Language=ku
+Label=ku
+
+[keyboard-iq-ku_f]
+Description="Клавиатура - Иракская - Курдская (Ирак, F)"
+Language=ku
+Label=ku
+
+[keyboard-iq-ku_alt]
+Description="Клавиатура - Иракская - Курдская (Ирак, латинская alt-Q)"
+Language=ku
+Label=ku
+
+[keyboard-iq-ku_ara]
+Description="Клавиатура - Иракская - Курдская (Ирак, арабо-латинская)"
+Language=ku
+Label=ku
+
+[keyboard-fo]
+Description="Клавиатура - Фарерская"
+Language=fo
+Label=fo
+
+[keyboard-fo-nodeadkeys]
+Description="Клавиатура - Фарерская - Фарерская (без спецклавиш (dead keys))"
+Language=fo
+Label=fo
+
+[keyboard-mk]
+Description="Клавиатура - Македонская"
+Language=mk
+Label=mk
+
+[keyboard-mk-nodeadkeys]
+Description="Клавиатура - Македонская - Македонская (без спецклавиш (dead keys))"
+Language=mk
+Label=mk
+
+[keyboard-cn]
+Description="Клавиатура - Китайская"
+Language=zh
+Label=zh
+
+[keyboard-cn-mon_trad]
+Description="Клавиатура - Китайская - Монгольская (бичиг)"
+Language=mvf
+Label=cn
+
+[keyboard-cn-mon_trad_todo]
+Description="Клавиатура - Китайская - Монгольская (тодо)"
+Language=mvf
+Label=cn
+
+[keyboard-cn-mon_trad_xibe]
+Description="Клавиатура - Китайская - Монгольская (сибинский)"
+Language=sjo
+Label=cn
+
+[keyboard-cn-mon_trad_manchu]
+Description="Клавиатура - Китайская - Монгольская (маньчжурский)"
+Language=mnc
+Label=cn
+
+[keyboard-cn-mon_trad_galik]
+Description="Клавиатура - Китайская - Монгольская (галик)"
+Language=mvf
+Label=cn
+
+[keyboard-cn-mon_todo_galik]
+Description="Клавиатура - Китайская - Монгольская (тодо-галик)"
+Language=mvf
+Label=cn
+
+[keyboard-cn-mon_manchu_galik]
+Description="Клавиатура - Китайская - Монгольская (маньчжурский галик)"
+Language=mnc
+Label=cn
+
+[keyboard-cn-tib]
+Description="Клавиатура - Китайская - Тибетская"
+Language=bo
+Label=cn
+
+[keyboard-cn-tib_asciinum]
+Description="Клавиатура - Китайская - Тибетская (с цифрами ASCII)"
+Language=bo
+Label=cn
+
+[keyboard-cn-ug]
+Description="Клавиатура - Китайская - Уйгурская"
+Language=ug
+Label=ug
+
+[keyboard-cn-altgr-pinyin]
+Description="Клавиатура - Китайская - Ханьюй пиньинь алфавит (с спецклавишами AltGr)"
+Language=zh
+Label=cn
+
+[keyboard-ca]
+Description="Клавиатура - Французская (Канада)"
+Language=fr
+Label=fr
+
+[keyboard-ca-fr-dvorak]
+Description="Клавиатура - Французская (Канада) - Французская (Канада, Дворак)"
+Language=fr
+Label=fr
+
+[keyboard-ca-fr-legacy]
+Description="Клавиатура - Французская (Канада) - Французская (Канада, устаревшая)"
+Language=fr
+Label=fr
+
+[keyboard-ca-multix]
+Description="Клавиатура - Французская (Канада) - Канадская (междунар.)"
+Language=fr
+Label=ca
+
+[keyboard-ca-multi]
+Description="Клавиатура - Французская (Канада) - Канадская (междунар., первая часть)"
+Language=fr
+Label=ca
+
+[keyboard-ca-multi-2gr]
+Description="Клавиатура - Французская (Канада) - Канадская (междунар., вторая часть)"
+Language=fr
+Label=ca
+
+[keyboard-ca-ike]
+Description="Клавиатура - Французская (Канада) - Иннуитская"
+Language=iu
+Label=ike
+
+[keyboard-ca-eng]
+Description="Клавиатура - Французская (Канада) - Английская (Канада)"
+Language=en
+Label=en
+
+[keyboard-ca-kut]
+Description="Клавиатура - Французская (Канада) - Кутенайская"
+Language=fr
+Label=kut
+
+[keyboard-ca-shs]
+Description="Клавиатура - Французская (Канада) - Secwepemctsin"
+Language=fr
+Label=shs
+
+[keyboard-ca-sun_type6]
+Description="Клавиатура - Французская (Канада) - Многоязыковая (Канада, Sun Type 6/7)"
+Language=fr
+Label=ca
+
+[keyboard-gh]
+Description="Клавиатура - Английская (Гана)"
+Language=en
+Label=en
+
+[keyboard-gh-generic]
+Description="Клавиатура - Английская (Гана) - Английская (Гана, многоязыковая)"
+Language=en
+Label=gh
+
+[keyboard-gh-akan]
+Description="Клавиатура - Английская (Гана) - Аканская"
+Language=ak
+Label=ak
+
+[keyboard-gh-ewe]
+Description="Клавиатура - Английская (Гана) - Ewe"
+Language=ee
+Label=ee
+
+[keyboard-gh-fula]
+Description="Клавиатура - Английская (Гана) - Фулайская"
+Language=ff
+Label=ff
+
+[keyboard-gh-ga]
+Description="Клавиатура - Английская (Гана) - Гайская"
+Language=gaa
+Label=gaa
+
+[keyboard-gh-hausa]
+Description="Клавиатура - Английская (Гана) - Хауза (Гана)"
+Language=ha
+Label=ha
+
+[keyboard-gh-avn]
+Description="Клавиатура - Английская (Гана) - Аватайм"
+Language=avn
+Label=avn
+
+[keyboard-gh-gillbt]
+Description="Клавиатура - Английская (Гана) - Английская (Гана, GILLBT)"
+Language=en
+Label=gh
+
+[keyboard-fr]
+Description="Клавиатура - Французская"
+Language=fr
+Label=fr
+
+[keyboard-fr-nodeadkeys]
+Description="Клавиатура - Французская - Французская (без спецклавиш)"
+Language=fr
+Label=fr
+
+[keyboard-fr-oss]
+Description="Клавиатура - Французская - Французская (альт.)"
+Language=fr
+Label=fr
+
+[keyboard-fr-oss_latin9]
+Description="Клавиатура - Французская - Французская (альт., только Latin-9)"
+Language=fr
+Label=fr
+
+[keyboard-fr-oss_nodeadkeys]
+Description="Клавиатура - Французская - Французская (альт., без спецклавиш)"
+Language=fr
+Label=fr
+
+[keyboard-fr-latin9]
+Description="Клавиатура - Французская - Французская (устаревшая, альт.)"
+Language=fr
+Label=fr
+
+[keyboard-fr-latin9_nodeadkeys]
+Description="Клавиатура - Французская - Французская (устаревшая, альт., без спецклавиш)"
+Language=fr
+Label=fr
+
+[keyboard-fr-bepo]
+Description="Клавиатура - Французская - Французская (BEPO)"
+Language=fr
+Label=fr
+
+[keyboard-fr-bepo_latin9]
+Description="Клавиатура - Французская - Французская (BEPO, только Latin-9)"
+Language=fr
+Label=fr
+
+[keyboard-fr-bepo_afnor]
+Description="Клавиатура - Французская - Французская (BEPO, AFNOR)"
+Language=fr
+Label=fr
+
+[keyboard-fr-dvorak]
+Description="Клавиатура - Французская - Французская (Дворак)"
+Language=fr
+Label=fr
+
+[keyboard-fr-mac]
+Description="Клавиатура - Французская - Французская (Macintosh)"
+Language=fr
+Label=fr
+
+[keyboard-fr-azerty]
+Description="Клавиатура - Французская - Французская (AZERTY)"
+Language=fr
+Label=fr
+
+[keyboard-fr-afnor]
+Description="Клавиатура - Французская - Французская (AZERTY, AFNOR)"
+Language=fr
+Label=fr
+
+[keyboard-fr-bre]
+Description="Клавиатура - Французская - Французская (бретонская)"
+Language=fr
+Label=fr
+
+[keyboard-fr-oci]
+Description="Клавиатура - Французская - Окситанский"
+Language=oc
+Label=fr
+
+[keyboard-fr-geo]
+Description="Клавиатура - Французская - Грузинская (Франция, AZERTY Tskapo)"
+Language=ka
+Label=fr
+
+[keyboard-fr-us]
+Description="Клавиатура - Французская - Французская (США)"
+Language=fr
+Label=fr
+
+[keyboard-fr-sun_type6]
+Description="Клавиатура - Французская - Французская (Sun Type 6/7)"
+Language=fr
+Label=fr
+
+[keyboard-fr-us-alt]
+Description="Клавиатура - Французская - Французская (США с спецклавишами, альт.)"
+Language=fr
+Label=fr
+
+[keyboard-fr-us-azerty]
+Description="Клавиатура - Французская - Французская (США, AZERTY)"
+Language=fr
+Label=fr
+
+[keyboard-gn]
+Description="Клавиатура - Нко (AZERTY)"
+Language=nqo
+Label=nqo
+
+[keyboard-uz]
+Description="Клавиатура - Узбекская"
+Language=uz
+Label=uz
+
+[keyboard-uz-latin]
+Description="Клавиатура - Узбекская - Узбекская (латинская)"
+Language=uz
+Label=uz
+
+[keyboard-fi]
+Description="Клавиатура - Финская"
+Language=fi
+Label=fi
+
+[keyboard-fi-winkeys]
+Description="Клавиатура - Финская - Финская (Windows)"
+Language=fi
+Label=fi
+
+[keyboard-fi-classic]
+Description="Клавиатура - Финская - Финская (классическая)"
+Language=fi
+Label=fi
+
+[keyboard-fi-nodeadkeys]
+Description="Клавиатура - Финская - Финская (классическая, без спецклавиш (dead keys))"
+Language=fi
+Label=fi
+
+[keyboard-fi-smi]
+Description="Клавиатура - Финская - Северная Саамская (Финляндия)"
+Language=se
+Label=fi
+
+[keyboard-fi-mac]
+Description="Клавиатура - Финская - Финская (Macintosh)"
+Language=fi
+Label=fi
+
+[keyboard-fi-sun_type6]
+Description="Клавиатура - Финская - Финская (Sun Type 6/7)"
+Language=fi
+Label=fi
+
+[keyboard-fi-das]
+Description="Клавиатура - Финская - Финская (DAS)"
+Language=fi
+Label=fi
+
+[keyboard-fi-fidvorak]
+Description="Клавиатура - Финская - Финская (Дворак)"
+Language=fi
+Label=fi
+
+[keyboard-lt]
+Description="Клавиатура - Литовская"
+Language=lt
+Label=lt
+
+[keyboard-lt-std]
+Description="Клавиатура - Литовская - Литовская (стандартная)"
+Language=lt
+Label=lt
+
+[keyboard-lt-us]
+Description="Клавиатура - Литовская - Литовская (США)"
+Language=lt
+Label=lt
+
+[keyboard-lt-ibm]
+Description="Клавиатура - Литовская - Литовская (IBM LST 1205-92)"
+Language=lt
+Label=lt
+
+[keyboard-lt-lekp]
+Description="Клавиатура - Литовская - Литовская (LEKP)"
+Language=lt
+Label=lt
+
+[keyboard-lt-lekpa]
+Description="Клавиатура - Литовская - Литовская (LEKPa)"
+Language=lt
+Label=lt
+
+[keyboard-lt-sgs]
+Description="Клавиатура - Литовская - Жемайтская"
+Language=sgs
+Label=lt
+
+[keyboard-lt-ratise]
+Description="Клавиатура - Литовская - Литовская (Ratise)"
+Language=lt
+Label=lt
+
+[keyboard-lt-us_dvorak]
+Description="Клавиатура - Литовская - Литовская (Дворак)"
+Language=lt
+Label=lt
+
+[keyboard-lt-sun_type6]
+Description="Клавиатура - Литовская - Литовская (Sun Type 6/7)"
+Language=lt
+Label=lt
+
+[keyboard-my]
+Description="Клавиатура - Малайская (джави, арабская клавиатура)"
+Language=id
+Label=ms
+
+[keyboard-my-phonetic]
+Description="Клавиатура - Малайская (джави, арабская клавиатура) - Малайская (джави, фонетическая)"
+Language=id
+Label=my
+
+[keyboard-pt]
+Description="Клавиатура - Португальская"
+Language=pt
+Label=pt
+
+[keyboard-pt-nodeadkeys]
+Description="Клавиатура - Португальская - Португальская (без спецклавиш)"
+Language=pt
+Label=pt
+
+[keyboard-pt-mac]
+Description="Клавиатура - Португальская - Португальская (Macintosh)"
+Language=pt
+Label=pt
+
+[keyboard-pt-mac_nodeadkeys]
+Description="Клавиатура - Португальская - Португальская (Macintosh, без спецклавиш)"
+Language=pt
+Label=pt
+
+[keyboard-pt-nativo]
+Description="Клавиатура - Португальская - Португальская (Nativo)"
+Language=pt
+Label=pt
+
+[keyboard-pt-nativo-us]
+Description="Клавиатура - Португальская - Португальская (Nativo для клавиатур США)"
+Language=pt
+Label=pt
+
+[keyboard-pt-nativo-epo]
+Description="Клавиатура - Португальская - Эсперанто (Португалия, Nativo)"
+Language=eo
+Label=pt
+
+[keyboard-pt-sun_type6]
+Description="Клавиатура - Португальская - Португальская (Sun Type 6/7)"
+Language=pt
+Label=pt
+
+[keyboard-pt-colemak]
+Description="Клавиатура - Португальская - Португальская (Коулмак)"
+Language=pt
+Label=pt
+
+[keyboard-id]
+Description="Клавиатура - Индонезийская (латиница)"
+Language=id
+Label=id
+
+[keyboard-id-phonetic]
+Description="Клавиатура - Индонезийская (латиница) - Индонезийская (арабский пегон, фонетическая)"
+Language=id
+Label=id
+
+[keyboard-id-phoneticx]
+Description="Клавиатура - Индонезийская (латиница) - Индонезийская (арабский пегон, расширенная фонетическая)"
+Language=id
+Label=id
+
+[keyboard-de]
+Description="Клавиатура - Немецкая"
+Language=de
+Label=de
+
+[keyboard-de-deadacute]
+Description="Клавиатура - Немецкая - Немецкая (с акутом (dead acute))"
+Language=de
+Label=de
+
+[keyboard-de-deadgraveacute]
+Description="Клавиатура - Немецкая - Немецкая (с dead grave acute)"
+Language=de
+Label=de
+
+[keyboard-de-nodeadkeys]
+Description="Клавиатура - Немецкая - Немецкая (без спецклавиш)"
+Language=de
+Label=de
+
+[keyboard-de-e1]
+Description="Клавиатура - Немецкая - Немецкая (E1)"
+Language=de
+Label=de
+
+[keyboard-de-e2]
+Description="Клавиатура - Немецкая - Немецкая (E2)"
+Language=de
+Label=de
+
+[keyboard-de-T3]
+Description="Клавиатура - Немецкая - Немецкая (T3)"
+Language=de
+Label=de
+
+[keyboard-de-us]
+Description="Клавиатура - Немецкая - Немецкая (США)"
+Language=de
+Label=de
+
+[keyboard-de-ro]
+Description="Клавиатура - Немецкая - Румынская (Германия)"
+Language=ro
+Label=de
+
+[keyboard-de-ro_nodeadkeys]
+Description="Клавиатура - Немецкая - Румынская (Германия, без спецклавиш)"
+Language=ro
+Label=de
+
+[keyboard-de-dvorak]
+Description="Клавиатура - Немецкая - Немецкая (Дворак)"
+Language=de
+Label=de
+
+[keyboard-de-neo]
+Description="Клавиатура - Немецкая - Немецкая (Neo 2)"
+Language=de
+Label=de
+
+[keyboard-de-mac]
+Description="Клавиатура - Немецкая - Немецкая (Macintosh)"
+Language=de
+Label=de
+
+[keyboard-de-mac_nodeadkeys]
+Description="Клавиатура - Немецкая - Немецкая (Macintosh, без спецклавиш (dead keys))"
+Language=de
+Label=de
+
+[keyboard-de-dsb]
+Description="Клавиатура - Немецкая - Нижнелужицкая"
+Language=dsb
+Label=de
+
+[keyboard-de-dsb_qwertz]
+Description="Клавиатура - Немецкая - Нижнелужицкая (QWERTZ)"
+Language=dsb
+Label=de
+
+[keyboard-de-qwerty]
+Description="Клавиатура - Немецкая - Немецкая (QWERTZ)"
+Language=de
+Label=de
+
+[keyboard-de-tr]
+Description="Клавиатура - Немецкая - Турецкая (Германия)"
+Language=tr
+Label=de
+
+[keyboard-de-ru]
+Description="Клавиатура - Немецкая - Русская (Германия, фонетическая)"
+Language=ru
+Label=ru
+
+[keyboard-de-deadtilde]
+Description="Клавиатура - Немецкая - Немецкая (с тильдой (dead tilde))"
+Language=de
+Label=de
+
+[keyboard-de-hu]
+Description="Клавиатура - Немецкая - Немецкая (с венгерскими буквами, без спецклавиш)"
+Language=de
+Label=de
+
+[keyboard-de-pl]
+Description="Клавиатура - Немецкая - Польская (Германия, без спецклавиш)"
+Language=de
+Label=de
+
+[keyboard-de-sun_type6]
+Description="Клавиатура - Немецкая - Немецкая (Sun Type 6/7)"
+Language=de
+Label=de
+
+[keyboard-de-adnw]
+Description="Клавиатура - Немецкая - Немецкая (Aus der Neo-Welt)"
+Language=de
+Label=de
+
+[keyboard-de-koy]
+Description="Клавиатура - Немецкая - Немецкая (KOY)"
+Language=de
+Label=de
+
+[keyboard-de-bone]
+Description="Клавиатура - Немецкая - Немецкая (Bone)"
+Language=de
+Label=de
+
+[keyboard-de-bone_eszett_home]
+Description="Клавиатура - Немецкая - Немецкая (Bone, эсцет в строке с home)"
+Language=de
+Label=de
+
+[keyboard-de-neo_qwertz]
+Description="Клавиатура - Немецкая - Немецкая (Neo, QWERTZ)"
+Language=de
+Label=de
+
+[keyboard-de-neo_qwerty]
+Description="Клавиатура - Немецкая - Немецкая (Neo, QWERTY)"
+Language=de
+Label=de
+
+[keyboard-de-ru-recom]
+Description="Клавиатура - Немецкая - Русская (Германия, рекомендуемая)"
+Language=ru
+Label=ru
+
+[keyboard-de-ru-translit]
+Description="Клавиатура - Немецкая - Русская (Германия, транслитерация)"
+Language=ru
+Label=ru
+
+[keyboard-de-lld]
+Description="Клавиатура - Немецкая - Немецкая (ладинский)"
+Language=de
+Label=de_lld
+
+[keyboard-gr]
+Description="Клавиатура - Греческая"
+Language=el
+Label=gr
+
+[keyboard-gr-simple]
+Description="Клавиатура - Греческая - Греческая (простая)"
+Language=el
+Label=gr
+
+[keyboard-gr-extended]
+Description="Клавиатура - Греческая - Греческая (расширенная)"
+Language=el
+Label=gr
+
+[keyboard-gr-nodeadkeys]
+Description="Клавиатура - Греческая - Греческая (без спецклавиш (dead keys))"
+Language=el
+Label=gr
+
+[keyboard-gr-polytonic]
+Description="Клавиатура - Греческая - Греческая (полифоническая)"
+Language=el
+Label=gr
+
+[keyboard-gr-sun_type6]
+Description="Клавиатура - Греческая - Греческая (Sun Type 6/7)"
+Language=el
+Label=gr
+
+[keyboard-gr-colemak]
+Description="Клавиатура - Греческая - Греческая (Коулмак)"
+Language=el
+Label=gr
+
+[keyboard-tg]
+Description="Клавиатура - Французская (Того)"
+Language=fr
+Label=fr-tg
+
+[keyboard-mao]
+Description="Клавиатура - Маори"
+Language=mi
+Label=mi
+
+[keyboard-sn]
+Description="Клавиатура - Волофская"
+Language=wo
+Label=wo
+
+[keyboard-kh]
+Description="Клавиатура - Кхмерская (Камбоджа)"
+Language=km
+Label=km
+
+[keyboard-az]
+Description="Клавиатура - Азербайджанская"
+Language=az
+Label=az
+
+[keyboard-az-cyrillic]
+Description="Клавиатура - Азербайджанская - Азербайджанская (кириллица)"
+Language=az
+Label=az
+
+[keyboard-hu]
+Description="Клавиатура - Венгерская"
+Language=hu
+Label=hu
+
+[keyboard-hu-standard]
+Description="Клавиатура - Венгерская - Венгерская (стандартная)"
+Language=hu
+Label=hu
+
+[keyboard-hu-nodeadkeys]
+Description="Клавиатура - Венгерская - Венгерская (без спецклавиш (dead keys))"
+Language=hu
+Label=hu
+
+[keyboard-hu-qwerty]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwertz_comma_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 101 клавиша, запятая, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwertz_comma_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 101 клавиша, запятая, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwertz_dot_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 101 клавиша, точка, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwertz_dot_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 101 клавиша, точка, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwerty_comma_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 101 клавиша, запятая, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwerty_comma_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 101 клавиша, запятая, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwerty_dot_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 101 клавиша, точка, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-101_qwerty_dot_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 101 клавиша, точка, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwertz_comma_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 102 клавиши, запятая, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwertz_comma_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 102 клавиши, запятая, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwertz_dot_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 102 клавиши, точка, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwertz_dot_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTZ, 102 клавиши, точка, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwerty_comma_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 102 клавиши, запятая, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwerty_comma_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 102 клавиши, запятая, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwerty_dot_dead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 102 клавиши, точка, спецклавиши)"
+Language=hu
+Label=hu
+
+[keyboard-hu-102_qwerty_dot_nodead]
+Description="Клавиатура - Венгерская - Венгерская (QWERTY, 102 клавиши, точка, без спецклавиш)"
+Language=hu
+Label=hu
+
+[keyboard-hu-oldhun]
+Description="Клавиатура - Венгерская - Старовенгерская"
+Language=hu
+Label=oldhun
+
+[keyboard-hu-oldhunlig]
+Description="Клавиатура - Венгерская - Старовенгерская (лигатуры)"
+Language=hu
+Label=oldhun(lig)
+
+[keyboard-tr]
+Description="Клавиатура - Турецкая"
+Language=tr
+Label=tr
+
+[keyboard-tr-f]
+Description="Клавиатура - Турецкая - Турецкая (F)"
+Language=tr
+Label=tr
+
+[keyboard-tr-alt]
+Description="Клавиатура - Турецкая - Турецкая (Alt-Q)"
+Language=tr
+Label=tr
+
+[keyboard-tr-ku]
+Description="Клавиатура - Турецкая - Курдская (Турция, латинская Q)"
+Language=ku
+Label=ku
+
+[keyboard-tr-ku_f]
+Description="Клавиатура - Турецкая - Курдская (Турция, F)"
+Language=ku
+Label=ku
+
+[keyboard-tr-ku_alt]
+Description="Клавиатура - Турецкая - Курдская (Турция, латинская Alt-Q)"
+Language=ku
+Label=ku
+
+[keyboard-tr-intl]
+Description="Клавиатура - Турецкая - Турецкая (междунар., со спецклавишами)"
+Language=tr
+Label=tr
+
+[keyboard-tr-ot]
+Description="Клавиатура - Турецкая - Османская (Q)"
+Language=tr
+Label=tr
+
+[keyboard-tr-otf]
+Description="Клавиатура - Турецкая - Османская (F)"
+Language=tr
+Label=tr
+
+[keyboard-tr-otk]
+Description="Клавиатура - Турецкая - Древнетюркская"
+Language=tr
+Label=tr
+
+[keyboard-tr-otkf]
+Description="Клавиатура - Турецкая - Древнетюркская (F)"
+Language=tr
+Label=tr
+
+[keyboard-tr-sun_type6]
+Description="Клавиатура - Турецкая - Турецкая (Sun Type 6/7)"
+Language=tr
+Label=tr
+
+[keyboard-tr-us]
+Description="Клавиатура - Турецкая - Турецкая (Турция, латинская Q, переставленные местами i и ı)"
+Language=tr
+Label=tr
+
+[keyboard-il]
+Description="Клавиатура - Иврит"
+Language=he
+Label=he
+
+[keyboard-il-lyx]
+Description="Клавиатура - Иврит - Иврит (lyx)"
+Language=he
+Label=il
+
+[keyboard-il-phonetic]
+Description="Клавиатура - Иврит - Иврит (фонетическая)"
+Language=he
+Label=il
+
+[keyboard-il-biblical]
+Description="Клавиатура - Иврит - Иврит (библейский, Tiro)"
+Language=he
+Label=il
+
+[keyboard-il-biblicalSIL]
+Description="Клавиатура - Иврит - Иврит (Библейская, фонетическая SIL)"
+Language=he
+Label=il
+
+[keyboard-it]
+Description="Клавиатура - Итальянская"
+Language=it
+Label=it
+
+[keyboard-it-nodeadkeys]
+Description="Клавиатура - Итальянская - Итальянская (без спецклавиш (dead keys))"
+Language=it
+Label=it
+
+[keyboard-it-winkeys]
+Description="Клавиатура - Итальянская - Итальянская (Windows)"
+Language=it
+Label=it
+
+[keyboard-it-mac]
+Description="Клавиатура - Итальянская - Итальянская (Macintosh)"
+Language=it
+Label=it
+
+[keyboard-it-us]
+Description="Клавиатура - Итальянская - Итальянская (США)"
+Language=it
+Label=it
+
+[keyboard-it-geo]
+Description="Клавиатура - Итальянская - Грузинская (Италия)"
+Language=ka
+Label=it
+
+[keyboard-it-ibm]
+Description="Клавиатура - Итальянская - Итальянская (IBM 142)"
+Language=it
+Label=it
+
+[keyboard-it-intl]
+Description="Клавиатура - Итальянская - Итальянская (междунар., с спецклавишами)"
+Language=it
+Label=it
+
+[keyboard-it-scn]
+Description="Клавиатура - Итальянская - Сицилийская"
+Language=it
+Label=it
+
+[keyboard-it-fur]
+Description="Клавиатура - Итальянская - Фруильская (Италия)"
+Language=fur
+Label=it
+
+[keyboard-it-sun_type6]
+Description="Клавиатура - Итальянская - Итальянская (Sun Type 6/7)"
+Language=it
+Label=it
+
+[keyboard-it-lld]
+Description="Клавиатура - Итальянская - Итальянская (ладинский)"
+Language=it
+Label=it_lld
+
+[keyboard-it-dvorak]
+Description="Клавиатура - Итальянская - Итальянская (Дворак)"
+Language=it
+Label=it
+
+[keyboard-jp]
+Description="Клавиатура - Японская"
+Language=ja
+Label=ja
+
+[keyboard-jp-kana]
+Description="Клавиатура - Японская - Японская (Кана)"
+Language=ja
+Label=jp
+
+[keyboard-jp-kana86]
+Description="Клавиатура - Японская - Японская (Кана 86)"
+Language=ja
+Label=jp
+
+[keyboard-jp-OADG109A]
+Description="Клавиатура - Японская - Японская (OADG 109A)"
+Language=ja
+Label=jp
+
+[keyboard-jp-mac]
+Description="Клавиатура - Японская - Японская (Macintosh)"
+Language=ja
+Label=jp
+
+[keyboard-jp-dvorak]
+Description="Клавиатура - Японская - Японская (Дворак)"
+Language=ja
+Label=jp
+
+[keyboard-jp-sun_type6]
+Description="Клавиатура - Японская - Японская (Sun Type 6)"
+Language=ja
+Label=jp
+
+[keyboard-jp-sun_type7]
+Description="Клавиатура - Японская - Японская (Sun Type 7, PC-совместимая)"
+Language=ja
+Label=jp
+
+[keyboard-jp-sun_type7_suncompat]
+Description="Клавиатура - Японская - Японская (Sun Type 7, Sun-совместимая)"
+Language=ja
+Label=jp
+
+[keyboard-latam]
+Description="Клавиатура - Испанская (латиноамериканская)"
+Language=es
+Label=es
+
+[keyboard-latam-nodeadkeys]
+Description="Клавиатура - Испанская (латиноамериканская) - Испанская (латиноамериканская, без спецклавиш)"
+Language=es
+Label=latam
+
+[keyboard-latam-deadtilde]
+Description="Клавиатура - Испанская (латиноамериканская) - Испанская (латиноамериканская, с dead tilde)"
+Language=es
+Label=latam
+
+[keyboard-latam-dvorak]
+Description="Клавиатура - Испанская (латиноамериканская) - Испанская (латиноамериканская, Дворак)"
+Language=es
+Label=latam
+
+[keyboard-latam-colemak]
+Description="Клавиатура - Испанская (латиноамериканская) - Испанская (латиноамериканская, Коулмак)"
+Language=es
+Label=latam
+
+[keyboard-latam-colemak-gaming]
+Description="Клавиатура - Испанская (латиноамериканская) - Испанская (латиноамериканская, Коулмак для игр)"
+Language=es
+Label=latam
+
+[keyboard-mt]
+Description="Клавиатура - Мальтийская"
+Language=mt
+Label=mt
+
+[keyboard-mt-us]
+Description="Клавиатура - Мальтийская - Мальтийская (США)"
+Language=mt
+Label=mt
+
+[keyboard-mt-alt-us]
+Description="Клавиатура - Мальтийская - Мальтийская (США, с заменённым AltGr)"
+Language=mt
+Label=mt
+
+[keyboard-mt-alt-gb]
+Description="Клавиатура - Мальтийская - Мальтийская (Великобритания, с заменённым AltGr)"
+Language=mt
+Label=mt
+
+[keyboard-custom]
+Description="Клавиатура - Раскладка, созданная пользователем"
+Language=
+Label=custom
+
+[keyboard-no]
+Description="Клавиатура - Норвежская"
+Language=no
+Label=no
+
+[keyboard-no-nodeadkeys]
+Description="Клавиатура - Норвежская - Норвежская (без спецклавиш (dead keys))"
+Language=no
+Label=no
+
+[keyboard-no-winkeys]
+Description="Клавиатура - Норвежская - Норвежская (Windows)"
+Language=no
+Label=no
+
+[keyboard-no-dvorak]
+Description="Клавиатура - Норвежская - Норвежская (Дворак)"
+Language=no
+Label=no
+
+[keyboard-no-smi]
+Description="Клавиатура - Норвежская - Северная Саамская (Норвегия)"
+Language=se
+Label=no
+
+[keyboard-no-smi_nodeadkeys]
+Description="Клавиатура - Норвежская - Северная Саамская (норвежская, без спецклавиш)"
+Language=se
+Label=no
+
+[keyboard-no-mac]
+Description="Клавиатура - Норвежская - Норвежская (Macintosh)"
+Language=no
+Label=no
+
+[keyboard-no-mac_nodeadkeys]
+Description="Клавиатура - Норвежская - Норвежская (Macintosh, без спецклавиш (dead keys))"
+Language=no
+Label=no
+
+[keyboard-no-colemak]
+Description="Клавиатура - Норвежская - Норвежская (Коулмак)"
+Language=no
+Label=no
+
+[keyboard-no-sun_type6]
+Description="Клавиатура - Норвежская - Норвежская (Sun Type 6/7)"
+Language=no
+Label=no
+
+[keyboard-pl]
+Description="Клавиатура - Польская"
+Language=pl
+Label=pl
+
+[keyboard-pl-legacy]
+Description="Клавиатура - Польская - Польская (устаревшая)"
+Language=pl
+Label=pl
+
+[keyboard-pl-qwertz]
+Description="Клавиатура - Польская - Польская (QWERTZ)"
+Language=pl
+Label=pl
+
+[keyboard-pl-dvorak]
+Description="Клавиатура - Польская - Польская (Дворак)"
+Language=pl
+Label=pl
+
+[keyboard-pl-dvorak_quotes]
+Description="Клавиатура - Польская - Польская (Дворак, польские кавычки на клавишах с кавычками)"
+Language=pl
+Label=pl
+
+[keyboard-pl-dvorak_altquotes]
+Description="Клавиатура - Польская - Польская (Дворак, польские кавычки на клавише 1)"
+Language=pl
+Label=pl
+
+[keyboard-pl-csb]
+Description="Клавиатура - Польская - Кашубская"
+Language=csb
+Label=pl
+
+[keyboard-pl-szl]
+Description="Клавиатура - Польская - Силезская"
+Language=szl
+Label=pl
+
+[keyboard-pl-ru_phonetic_dvorak]
+Description="Клавиатура - Польская - Русская (Польша, фонетическая, Дворак)"
+Language=ru
+Label=ru
+
+[keyboard-pl-dvp]
+Description="Клавиатура - Польская - Польская (Дворак для программистов)"
+Language=pl
+Label=pl
+
+[keyboard-pl-intl]
+Description="Клавиатура - Польская - Польская (междунар., с спецклавишами)"
+Language=pl
+Label=pl
+
+[keyboard-pl-colemak]
+Description="Клавиатура - Польская - Польская (Коулмак)"
+Language=pl
+Label=pl
+
+[keyboard-pl-colemak_dh]
+Description="Клавиатура - Польская - Польская (Коулмак-DH)"
+Language=pl
+Label=pl
+
+[keyboard-pl-sun_type6]
+Description="Клавиатура - Польская - Польская (Sun Type 6/7)"
+Language=pl
+Label=pl
+
+[keyboard-pl-glagolica]
+Description="Клавиатура - Польская - Польская (глаголица)"
+Language=pl
+Label=pl
+
+[keyboard-pl-lefty]
+Description="Клавиатура - Польская - Польская (lefty)"
+Language=pl
+Label=pl
+
+[keyboard-ro]
+Description="Клавиатура - Румынская"
+Language=ro
+Label=ro
+
+[keyboard-ro-std]
+Description="Клавиатура - Румынская - Румынская (стандартная)"
+Language=ro
+Label=ro
+
+[keyboard-ro-winkeys]
+Description="Клавиатура - Румынская - Румынская (Windows)"
+Language=ro
+Label=ro
+
+[keyboard-ro-crh_dobruja]
+Description="Клавиатура - Румынская - Крымско-татарская (Dobruja Q)"
+Language=crh
+Label=crh
+
+[keyboard-ro-ergonomic]
+Description="Клавиатура - Румынская - Румынская (эргономичная для слепой печати)"
+Language=ro
+Label=ro
+
+[keyboard-ro-sun_type6]
+Description="Клавиатура - Румынская - Румынская (Sun Type 6/7)"
+Language=ro
+Label=ro
+
