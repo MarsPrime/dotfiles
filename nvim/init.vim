@@ -33,5 +33,5 @@ noremap <Right> <Nop>
 
 colorscheme tokyonight-night
 
-
-
+set colorcolumn=80
+highlight ColorColumn ctermbg=gray

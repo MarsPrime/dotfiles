@@ -1,0 +1,158 @@
+# GIMP sessionrc
+# 
+# This file takes session-specific info (that is info, you want to keep
+# between two GIMP sessions).  You are not supposed to edit it manually, but
+# of course you can do.  The sessionrc will be entirely rewritten every time
+# you quit GIMP.  If this file isn't found, defaults are used.
+
+(session-info "toplevel"
+    (factory-entry "gimp-empty-image-window")
+    (position 200 100)
+    (size 640 480))
+(session-info "toplevel"
+    (factory-entry "gimp-single-image-window")
+    (position 0 22)
+    (size 1916 1036)
+    (open-on-exit)
+    (aux-info
+        (left-docks-width "212")
+<<<<<<< HEAD
+        (right-docks-width "209")
+=======
+        (right-docks-width "208")
+>>>>>>> 08504e8 (Add all config files for now)
+        (maximized "no"))
+    (gimp-toolbox
+        (side left)
+        (book
+<<<<<<< HEAD
+            (current-page 0)
+            (dockable "gimp-tool-options"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+=======
+            (current-page 3)
+>>>>>>> 08504e8 (Add all config files for now)
+            (dockable "gimp-device-status"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-undo-history"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-image-list"
+                (tab-style automatic)
+                (aux-info
+<<<<<<< HEAD
+=======
+                    (show-button-bar "true")))
+            (dockable "gimp-tool-options"
+                (tab-style automatic)
+                (aux-info
+>>>>>>> 08504e8 (Add all config files for now)
+                    (show-button-bar "true")))))
+    (gimp-dock
+        (side right)
+        (book
+            (current-page 1)
+            (dockable "gimp-brush-grid"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-pattern-grid"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-font-list"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-document-list"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true"))))
+        (book
+<<<<<<< HEAD
+            (position 187)
+=======
+            (position 204)
+>>>>>>> 08504e8 (Add all config files for now)
+            (current-page 0)
+            (dockable "gimp-layer-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-channel-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-vectors-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true"))))))
+(session-info "toplevel"
+    (factory-entry "gimp-file-open-dialog")
+<<<<<<< HEAD
+    (position 477 166)
+    (size 948 645))
+(session-info "toplevel"
+    (factory-entry "gimp-file-export-dialog")
+    (position 429 0)
+    (size 948 645))
+(session-info "toplevel"
+    (factory-entry "gimp-operation-tool-dialog")
+    (position 774 443))
+(session-info "toplevel"
+    (factory-entry "gimp-image-new-dialog")
+    (position 745 405))
+(session-info "toplevel"
+    (factory-entry "gimp-toolbox-color-dialog")
+    (position 732 330))
+(session-info "toplevel"
+    (factory-entry "gimp-file-save-dialog")
+    (position 465 16)
+=======
+    (position 469 86)
+    (size 948 645))
+(session-info "toplevel"
+    (factory-entry "gimp-file-export-dialog")
+    (position 411 0)
+    (size 948 645))
+(session-info "toplevel"
+    (factory-entry "gimp-operation-tool-dialog")
+    (position 760 303))
+(session-info "toplevel"
+    (factory-entry "gimp-image-new-dialog")
+    (position 741 365))
+(session-info "toplevel"
+    (factory-entry "gimp-toolbox-color-dialog")
+    (position 720 210))
+(session-info "toplevel"
+    (factory-entry "gimp-file-save-dialog")
+    (position 457 0)
+>>>>>>> 08504e8 (Add all config files for now)
+    (size 948 645))
+(session-info "toplevel"
+    (factory-entry "gimp-brightness-contrast-tool-dialog")
+    (position 770 407))
+(session-info "toplevel"
+    (factory-entry "gimp-levels-tool-dialog")
+    (position 698 267)
+    (size 521 543))
+(session-info "toplevel"
+    (factory-entry "gimp-preferences-dialog")
+    (position 427 295)
+    (size 1063 487))
+
+(hide-docks no)
+(single-window-mode yes)
+(show-tabs yes)
+(tabs-position 0)
+(last-tip-shown 0)
+
+# end of sessionrc

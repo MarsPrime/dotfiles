@@ -1,0 +1,14 @@
+# settings
+
+(GimpGegl-gegl-pixelize-config "2024-12-25 08:56:00"
+    (time 1735091760)
+    (norm square)
+    (size-x 8)
+    (size-y 8)
+    (offset-x 0)
+    (offset-y 0)
+    (ratio-x 1)
+    (ratio-y 1)
+    (background (color-rgba 1 1 1 1)))
+
+# end of settings
