@@ -1,5 +1,6 @@
 This repository shows my config files for linux.
-![[Pasted image 20250112194358.png]]To make Debian (or other Linux distributions) looks like this:
+[plot](./images/Pasted image 20250112194358.png)
+To make Debian (or other Linux distributions) looks like this:
 
 | file                | destination                               |
 | ------------------- | ----------------------------------------- |
