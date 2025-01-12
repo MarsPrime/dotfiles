@@ -1,6 +1,6 @@
 This repository shows my config files for linux.
 
-![screenshot](./images/Desktop.png)
+![screenshot](https://github.com/MarsPrime/dotfiles/blob/main/images/Desktop.png)
 
 To make Debian (or other Linux distributions) looks like this:
 
