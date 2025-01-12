@@ -20,7 +20,7 @@ For using this languages my Linux has Fcitx5(IME system for Linux). To use this 
 | **/fcitx**  | File for dbus       |
 | **/fcitx5** | Base config for IME |
 
-![[Pasted image 20250112200347.png]]
+![Desktop Screenshot](./images/Nvim.png)
 This is how my NeoVim looks like. All config files presented in table below:
 
 | file                  | destination                                     |
