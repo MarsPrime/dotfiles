@@ -2,12 +2,15 @@ set number
 set noswapfile 
 set mouse=a
 set relativenumber
+
 syntax on
 
 
 set tabstop=4
 set shiftwidth=5
 set softtabstop=4
+
+set scrolloff=8
 
 set smarttab
 
@@ -24,6 +27,7 @@ Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/nvim-cmp'
 Plug 'RishabhRD/popfix'
 Plug 'RishabhRD/nvim-finder'
+
 call plug#end()
 
 noremap <Up> <Nop>
@@ -31,6 +35,7 @@ noremap <Down> <Nop>
 noremap <Left> <Nop>
 noremap <Right> <Nop>
 
+set termguicolors
 colorscheme tokyonight-night
 
 set colorcolumn=80

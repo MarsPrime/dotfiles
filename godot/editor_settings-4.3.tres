@@ -149,6 +149,7 @@ text_editor/help/sort_functions_alphabetically = true
 network/language_server/audio_editor = ""
 metadata/script_setup_templates_dictionary = {
 "CharacterBody3D": "0CharacterBody3DBasic Movement",
+"Control": "0NodeDefault",
 "MeshInstance3D": "0NodeDefault",
 "Node": "0NodeDefault",
 "Node3D": "0NodeDefault",
