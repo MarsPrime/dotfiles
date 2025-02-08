@@ -7,8 +7,11 @@ polybar-msg cmd quit
 # killall -q polybar
 
 # Launch bar1 and bar2
-echo "---" | tee -a /tmp/polybar1.log /tmp/polybar2.log
-polybar example 2>&1 | tee -a /tmp/polybar1.log & disown
-polybar bar2 2>&1 | tee -a /tmp/polybar2.log & disown
+echo "---" | tee -a /tmp/polybar1.log /tmp/polybar2.log /tmp/polybar3.log /tmp/polybar4.log
+M
+MONITOR=eDp-1 polybar workspaces 2>&1 | tee -a /tmp/polybar1.log & disown
+MONITOR=eDp-1 polybar data-panel 2>&1 | tee -a /tmp/polybar2.log & disown
+MONITOR=eDp-1 polybar date-panel 2>&1 | tee -a /tmp/polybar3.log & disown
+MONITOR=eDp-1 polybar busy-panel 2>&1 | tee -a /tmp/polybar4.log & disown
 
 echo "Bars launched..."

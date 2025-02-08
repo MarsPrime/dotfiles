@@ -4525,10 +4525,10 @@
         (proc-arg 16 "drawable" "Input drawable (not used)")
         (proc-arg 0 "link-after-alignment" "Link the visible layers after alignment { TRUE, FALSE }")
         (proc-arg 0 "use-bottom" "use the bottom layer as the base of alignment { TRUE, FALSE }")))
-(plug-in-def "${gimp_plug_in_dir}/plug-ins/xsane/xsane" 1673609168
+(plug-in-def "${gimp_plug_in_dir}/plug-ins/xsane/xsane" 1727636741
     (proc-def "xsane" 2
-         "Графическая оболочка к интерфейсу SANE"
-         "Данная функция предоставляет доступ к сканерам и другим подобным устройствам через интерфейс SANE (Scanner Acess Now Easy)."
+         "Front-end to the SANE interface"
+         "This function provides access to scanners and other image acquisition devices through the SANE (Scanner Access Now Easy) interface."
          "Oliver Rauch"
          "Oliver Rauch"
          "1998-2013"

@@ -646,7 +646,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="3abcfcf7818f83cbce303b9d31bc0b36">
+  <resource identifier="gimp-palette-color-history" checksum="7d4cb2eb7a92a41c01cd5a065c78fbdb">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -839,6 +839,15 @@
   </resource>
 
   <resource identifier="Carlito Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caveat" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caveat" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caveat Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Comic Sans MS" checksum="(null)">
@@ -1139,6 +1148,36 @@
   </resource>
 
   <resource identifier="Hack Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Handjet Ultra-Light" checksum="(null)">
   </resource>
 
   <resource identifier="Impact Condensed" checksum="(null)">
@@ -7207,6 +7246,9 @@
   <resource identifier="P052 Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Pixelify Sans Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="PowerlineSymbols Medium" checksum="(null)">
   </resource>
 
@@ -7220,6 +7262,9 @@
   </resource>
 
   <resource identifier="Quicksand Medium, Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Russo One" checksum="(null)">
   </resource>
 
   <resource identifier="Sans-serif" checksum="(null)">

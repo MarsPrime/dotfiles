@@ -1,3 +1,39 @@
-2025/01/07-13:23:59.957 2039 Reusing MANIFEST /home/demid/.config/Docker Desktop/Local Storage/leveldb/MANIFEST-000001
-2025/01/07-13:23:59.964 2039 Recovering log #3
-2025/01/07-13:23:59.964 2039 Reusing old log /home/demid/.config/Docker Desktop/Local Storage/leveldb/000003.log 
+2025/01/07-13:46:56.881 41df Reusing MANIFEST /home/demid/.config/Docker Desktop/Local Storage/leveldb/MANIFEST-000001
+2025/01/07-13:46:56.888 41df Recovering log #3
+2025/01/07-13:46:56.888 41df Reusing old log /home/demid/.config/Docker Desktop/Local Storage/leveldb/000003.log 
+2025/01/07-14:41:22.158 419b Level-0 table #5: started
+2025/01/07-14:41:22.170 419b Level-0 table #5: 14893 bytes OK
+2025/01/07-14:41:22.174 419b Delete type=0 #3
+2025/01/07-16:07:19.178 419b Level-0 table #7: started
+2025/01/07-16:07:19.183 419b Level-0 table #7: 14294 bytes OK
+2025/01/07-16:07:19.188 419b Delete type=0 #4
+2025/01/07-16:22:29.152 419b Level-0 table #9: started
+2025/01/07-16:22:29.164 419b Level-0 table #9: 13572 bytes OK
+2025/01/07-16:22:29.168 419b Delete type=0 #6
+2025/01/07-17:03:29.153 419b Level-0 table #11: started
+2025/01/07-17:03:29.157 419b Level-0 table #11: 14942 bytes OK
+2025/01/07-17:03:29.162 419b Delete type=0 #8
+2025/01/10-17:31:08.300 419b Level-0 table #13: started
+2025/01/10-17:31:08.305 419b Level-0 table #13: 14766 bytes OK
+2025/01/10-17:31:08.309 419b Delete type=0 #10
+2025/01/10-17:45:26.451 419b Level-0 table #15: started
+2025/01/10-17:45:26.463 419b Level-0 table #15: 14229 bytes OK
+2025/01/10-17:45:26.467 419b Delete type=0 #12
+2025/01/10-17:45:26.468 419b Compacting 4@0 + 1@1 files
+2025/01/10-17:45:26.473 419b Generated table #16@0: 22 keys, 2738 bytes
+2025/01/10-17:45:26.474 419b Compacted 4@0 + 1@1 files => 2738 bytes
+2025/01/10-17:45:26.478 419b compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/10-17:45:26.478 419b Delete type=2 #15
+2025/01/10-17:45:26.478 419b Delete type=2 #7
+2025/01/10-17:45:26.479 419b Delete type=2 #11
+2025/01/10-17:45:26.479 419b Delete type=2 #9
+2025/01/10-17:45:26.479 419b Delete type=2 #13
+2025/01/10-17:52:09.612 419b Level-0 table #18: started
+2025/01/10-17:52:09.624 419b Level-0 table #18: 14217 bytes OK
+2025/01/10-17:52:09.629 419b Delete type=0 #14
+2025/01/10-17:58:49.656 419b Level-0 table #20: started
+2025/01/10-17:58:49.669 419b Level-0 table #20: 14223 bytes OK
+2025/01/10-17:58:49.673 419b Delete type=0 #17
+2025/01/10-18:05:29.701 419a Level-0 table #22: started
+2025/01/10-18:05:29.713 419a Level-0 table #22: 14216 bytes OK
+2025/01/10-18:05:29.717 419a Delete type=0 #19
