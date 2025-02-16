@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,6 +165,7 @@
   },
   "active": "08ad9f121201c4ed",
   "lastOpenFiles": [
+    "images/Pasted image 20250217065822.png",
     "images/Pasted image 20250112200347.png",
     "i3/config.md",
     "README.md",

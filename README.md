@@ -1,6 +1,5 @@
 This repository shows my config files for linux.
-
-![Desktop Screenshot](./images/Desktop.png)
+![[Pasted image 20250217065822.png]]
 
 To make Debian (or other Linux distributions) looks like this:
 
