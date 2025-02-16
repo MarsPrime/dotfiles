@@ -29,9 +29,12 @@ if [ -x /usr/bin/flatpak ]; then
 	if [ -x /usr/bin/xfsettingsd ]; then
 		xfsettingsd
 	fi
-fi&
+fi &
 
 fcitx5 &
 
-$HOME/.config/polybar/launch.sh
+xsetroot -cursor_name left_ptr &
+
+$HOME/.config/polybar/launch.sh 
+
 

@@ -114,7 +114,7 @@ super + ctrl + shift + space
 
 # expand a window by moving one of its side outward
 super + alt + {h,j,k,l}
-	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+	bspc node -z {left 20 0,bottom 0 -20, top 0 -20,right 20 0}
 
 
 # contract a window by moving one of its side inward
@@ -125,13 +125,22 @@ super + alt + {h,j,k,l}
 super + {Left, Down, Up, Right} 
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
+#super + control + {h,j,k,l}
+#	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+
+#super  + control + {h,j,k,l}
+#	bspc node -v {-20 0,0 20,0 -20,20 0}
+
 super + alt + p
 	bspc config focus_follows_pointer {true,false}
 
 super + z
 	blueman-manager
+
 super + v
 	pavucontrol
+
 {XF86AudioRaiseVolume,XF86AudioLowerVolume}
 	pamixer -{i,d} 2
 
