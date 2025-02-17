@@ -1,5 +1,5 @@
 This repository shows my config files for linux.
-![[images/BSPWM_Desktop.png]]
+![Current WM](images/BSPWM_Desktop.png)
 
 To make Debian (or other Linux distributions) looks like this:
 
