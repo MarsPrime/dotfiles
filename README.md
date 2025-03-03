@@ -1,5 +1,5 @@
 This repository shows my config files for linux.
-![[Pasted image 20250217065822.png]]
+![Current WM](images/BSPWM_Desktop.png)
 
 To make Debian (or other Linux distributions) looks like this:
 
