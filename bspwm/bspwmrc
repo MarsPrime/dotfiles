@@ -19,11 +19,10 @@ bspc rule -a Screenkey manage=off
 
  
 setxkbmap -option caps:escape&
-picom -f &
+
+picom -f --backend=xrender --xrender-sync-fence &
 
 feh --bg-fill $HOME/Изображения/wallpaper.jpg &
-
-xfce4-panel --disable-wm-check &
 
 if [ -x /usr/bin/flatpak ]; then
 	if [ -x /usr/bin/xfsettingsd ]; then

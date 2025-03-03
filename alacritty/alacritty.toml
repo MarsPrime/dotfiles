@@ -17,7 +17,7 @@ glyph_offset          = { x = 0, y = 0 }
 builtin_box_drawing   = true
 
 [window]
-opacity = 0.4
+opacity = 0.5
 
 [terminal.shell]
 program = "/usr/bin/tmux"

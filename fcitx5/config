@@ -9,6 +9,8 @@ EnumerateForwardKeys=
 EnumerateBackwardKeys=
 # Пропустить первый метод ввода при перечислении
 EnumerateSkipFirst=False
+# Ограничение по времени в миллисекундах для срабатывания комбинаций клавиш-модификаторов
+ModifierOnlyKeyTimeout=250
 
 [Hotkey/TriggerKeys]
 0=Super+space
@@ -44,6 +46,8 @@ EnumerateSkipFirst=False
 [Behavior]
 # Активен по умолчанию
 ActiveByDefault=False
+# Сбросить состояние при фокусировке
+resetStateWhenFocusIn=No
 # Поделиться состоянием ввода
 ShareInputState=No
 # Показать предварительное редактирование в приложении
@@ -68,4 +72,10 @@ EnabledAddons=
 DisabledAddons=
 # Preload input method to be used by default
 PreloadInputMethod=True
+# Разрешить метод ввода в поле пароля
+AllowInputMethodForPassword=False
+# Показывать предварительно редактируемый текст при вводе пароля
+ShowPreeditForPassword=False
+# Интервал сохранения пользовательских данных в минутах
+AutoSavePeriod=30
 
