@@ -12,6 +12,7 @@ M
 MONITOR=eDp-1 polybar workspaces 2>&1 | tee -a /tmp/polybar1.log & disown
 MONITOR=eDp-1 polybar data-panel 2>&1 | tee -a /tmp/polybar2.log & disown
 MONITOR=eDp-1 polybar date-panel 2>&1 | tee -a /tmp/polybar3.log & disown
-MONITOR=eDp-1 polybar busy-panel 2>&1 | tee -a /tmp/polybar4.log & disown
+MONITOR=eDp-1 polybar memory 2>&1 | tee -a /tmp/polybar4.log & disown
+MONITOR=eDp-1 polybar cpu 2>&1 | tee -a /tmp/polybar5.log & disown
 
 echo "Bars launched..."
