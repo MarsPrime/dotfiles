@@ -1,0 +1,107 @@
+configuration{
+
+     font: "Hack 10";
+
+     icon-theme: "BeautyLine";
+
+     drun {
+          
+          /* set name instead 'drun' */
+          display-name: "Exec ";
+     }
+
+     run {
+
+          /* set name instead 'run' */
+          display-name: "Run ";
+     }
+
+     window{
+          
+          display-name: "IDK";
+
+     }
+
+
+}
+
+
+* {
+     border: 1;
+     margin: 1;
+
+
+     bg: #1a1b26;
+     bg-alt: #C0CAF5;
+     fg: #7DCFFF;
+     fg-alt: #7AA2F7;
+
+     transparency: "real";
+
+     //background-color: transparent;
+     background-color: #1A1B2699;
+
+     text-color: @fg;
+}
+
+
+window {
+     
+     width: 300px;
+
+}
+
+
+inputbar{
+
+     background-color: @bg-alt;
+     children: [prompt, entry];
+
+}
+
+mainbox{
+     
+     children: [inputbar, listview];
+
+}
+
+entry{
+     
+     background-color: @bg-alt;
+     text-color: @bg;
+}
+
+
+prompt{
+
+     background-color: @bg-alt;
+     text-color: #15161E;
+}
+
+element {
+
+     children: [element-icon, element-text];
+}
+
+
+element-icon {
+
+     size: 20px;
+}
+
+element-icon selected {
+
+     text-color: @bg;
+     icon-theme: "BeautyLine";
+
+}
+
+element-text selected {
+     
+     background-color: @fg-alt;
+     text-color: @bg;
+
+}
+
+
+
