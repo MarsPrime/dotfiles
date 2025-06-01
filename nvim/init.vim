@@ -28,6 +28,11 @@ Plug 'hrsh7th/nvim-cmp'
 Plug 'RishabhRD/popfix'
 Plug 'RishabhRD/nvim-finder'
 
+Plug 'hrsh7th/cmp-nvim-lsp'      " источник: LSP
+Plug 'hrsh7th/cmp-buffer'        " источник: текст буфера
+Plug 'hrsh7th/cmp-path'          " источник: пути
+Plug 'L3MON4D3/LuaSnip'          " snippets движок
+Plug 'saadparwaiz1/cmp_luasnip'  " источник: LuaSnip
 call plug#end()
 
 noremap <Up> <Nop>
@@ -40,3 +45,6 @@ colorscheme tokyonight-night
 
 set colorcolumn=80
 highlight ColorColumn ctermbg=gray
+
+luafile ~/.config/nvim/lua/init.lua
+
