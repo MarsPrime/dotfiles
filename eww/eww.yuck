@@ -1,0 +1,109 @@
+(defwindow test
+           :class test
+           :monitor 0
+           :geometry (geometry :x "30px"
+                               :y "30px"
+                               :width "125px"
+                               :height "70px"
+                               :anchor "top left")
+           :windowtype "desktop"
+           :stacking "bg"
+
+(vbox-container)
+)
+
+(defwidget test-wiget [?text name]
+  (box :orientation "horizontal"
+       :halign "center"
+       text
+       (button :onclick "notify-send 'hello' 'Hello ${name}'"
+       "test")))
+
+
+(defpoll cpu-core-0 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 0")
+
+(defpoll cpu-core-1 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 1")
+
+(defpoll cpu-core-2 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 2")
+
+(defpoll cpu-core-3 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 3")
+
+(defpoll cpu-core-4 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 4")
+
+(defpoll cpu-core-5 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 5")
+
+(defpoll cpu-core-6 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 6")
+
+(defpoll cpu-core-7 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 7")
+
+(defpoll cpu-core-8 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 8")
+
+(defpoll cpu-core-9 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 9")
+
+(defpoll cpu-core-10 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 10")
+
+(defpoll cpu-core-11 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 11")
+
+(defpoll cpu-core-12 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 12")
+
+(defpoll cpu-core-13 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 13")
+
+(defpoll cpu-core-14 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 14")
+
+(defpoll cpu-core-15 :interval "2s"
+  "/home/demid/.config/eww/scripts/core-usage.sh 15")
+
+(defwidget vbox-container []
+
+   (box
+       :orientation "h"
+
+      (box
+        :orientation "v"
+        (cpu-core :num "0" :usage cpu-core-0)
+        (cpu-core :num "1" :usage cpu-core-1)
+        (cpu-core :num "2" :usage cpu-core-2)
+        (cpu-core :num "3" :usage cpu-core-3)
+        (cpu-core :num "4" :usage cpu-core-4)
+        (cpu-core :num "5" :usage cpu-core-5)
+        (cpu-core :num "6" :usage cpu-core-6)
+        (cpu-core :num "7" :usage cpu-core-7)
+      )
+
+      (box
+        :orientation "v"
+        (cpu-core :num "8" :usage cpu-core-8)
+        (cpu-core :num "9" :usage cpu-core-9)
+        (cpu-core :num "10" :usage cpu-core-10)
+        (cpu-core :num "11" :usage cpu-core-11)
+        (cpu-core :num "12" :usage cpu-core-12)
+        (cpu-core :num "13" :usage cpu-core-13)
+        (cpu-core :num "14" :usage cpu-core-14)
+        (cpu-core :num "15" :usage cpu-core-15)
+      )
+   )
+)
+
+
+(defwidget cpu-core [?text num ?text usage]
+ (image
+  :path "/home/demid/.config/eww/scripts/cpu_usage/cpu-core-${num}-${usage}.png"
+ )
+)
+
+
