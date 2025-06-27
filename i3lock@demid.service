@@ -1,13 +1,15 @@
 [Unit]
 Description=Lock screen before suspend
 Before=sleep.target
-
+Before=suspend.target
 [Service]
 User=%I
 Type=forking
 Environment=DISPLAY=:0
-ExecStart=/usr/bin/i3lock -i /home/demid/lockscreen.png
+ExecStart=/usr/bin/i3lock -i /home/demid/Изображения/wallpaper.png
 ExecStartPost=/bin/sleep 1
 
 [Install]
+WantedBy=sleep.target
 WantedBy=suspend.target
+
