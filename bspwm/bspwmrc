@@ -4,21 +4,31 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 
 bspc monitor -d 1 2 3 4 5 6 7 8 9 0
 
-bspc config border_width         0
+bspc config border_width         2
 bspc config window_gap          12
+
+bspc config normal_border_color        '#7DCFFF'
+bspc config active_border_color        '#9ECE6A'
+bspc config focused_border_color        '#BB9AF7'
+
 
 bspc config split_ratio          0.52
 bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
-bspc rule -a Gimp desktop='^8' state=floating follow=on
-bspc rule -a Chromium desktop='^2'
-bspc rule -a mplayer2 state=floating
-bspc rule -a Kupfer.py focus=on
-bspc rule -a Screenkey manage=off
+#bspc rule -a Gimp desktop='^8' state=floating follow=on
+#bspc rule -a Chromium desktop='^2'
+#bspc rule -a mplayer2 state=floating
+#bspc rule -a Kupfer.py focus=on
+#bspc rule -a Screenkey manage=off
 
+bspc rule -a eww state=below layer=below manage=off
+bspc rule -a Eww state=below layer=below manage=off
  
+
 setxkbmap -option caps:escape&
+
+#export QT_QPA_PLATFORMTHEME=qt6ct&
 
 picom -f --backend=xrender --xrender-sync-fence &
 
@@ -26,9 +36,12 @@ feh --bg-fill $HOME/Изображения/wallpaper.jpg &
 
 if [ -x /usr/bin/flatpak ]; then
 	if [ -x /usr/bin/xfsettingsd ]; then
-		xfsettingsd
+
+		xfsettingsd &
 	fi
 fi &
+
+xfsettingsd &
 
 fcitx5 &
 
