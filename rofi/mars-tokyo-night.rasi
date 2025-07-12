@@ -1,35 +1,42 @@
 configuration{
 
      font: "Hack 10";
-
      icon-theme: "BeautyLine";
+
 
      drun {
           
           /* set name instead 'drun' */
-          display-name: "Exec ";
+          display-name: " ";
      }
 
      run {
 
           /* set name instead 'run' */
-          display-name: "Run ";
+          display-name: " ";
      }
 
      window{
           
-          display-name: "IDK";
+          display-name: " ";
 
      }
 
+     ssh{
+          display-name: "󰵬 ";
+     }
 
 }
+
 
 
 * {
      border: 1;
      margin: 1;
 
+
+     lines:4;
+     fixed-num-lines: true;
 
      bg: #1a1b26;
      bg-alt: #C0CAF5;
@@ -38,8 +45,11 @@ configuration{
 
      transparency: "real";
 
-     //background-color: transparent;
-     background-color: #1A1B2699;
+
+
+     border-radius: 20px;
+
+     background-color: @bg;
 
      text-color: @fg;
 }
@@ -48,7 +58,8 @@ configuration{
 window {
      
      width: 300px;
-
+     padding: 10px;
+     border-color: @fg;
 }
 
 
@@ -67,6 +78,7 @@ mainbox{
 
 entry{
      
+     padding: 10px;
      background-color: @bg-alt;
      text-color: @bg;
 }
@@ -74,6 +86,7 @@ entry{
 
 prompt{
 
+     padding: 10px;
      background-color: @bg-alt;
      text-color: #15161E;
 }
@@ -86,7 +99,7 @@ element {
 
 element-icon {
 
-     size: 20px;
+     size: 30px;
 }
 
 element-icon selected {
@@ -94,6 +107,10 @@ element-icon selected {
      text-color: @bg;
      icon-theme: "BeautyLine";
 
+}
+
+element-text{
+     padding: 10px;
 }
 
 element-text selected {
