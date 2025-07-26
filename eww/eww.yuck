@@ -1,5 +1,5 @@
-(defwindow test
-           :class test
+(defwindow cpu
+           :class cpu
            :monitor 0
            :geometry (geometry :x "30px"
                                :y "30px"
@@ -12,13 +12,245 @@
 (vbox-container)
 )
 
-(defwidget test-wiget [?text name]
-  (box :orientation "horizontal"
-       :halign "center"
-       text
-       (button :onclick "notify-send 'hello' 'Hello ${name}'"
-       "test")))
 
+(defwindow battery_panel_1
+           :class test
+           :monitor 0
+           :geometry (geometry :x "1200px"
+                               :y "800px"
+                               :width "125px"
+                               :height "70px")
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "bg"
+
+(battery_panel_1)
+)
+
+(defwindow battery_panel_2
+           :class test
+           :monitor 0
+           :geometry (geometry :x "1730px"
+                               :y "800px"
+                               :width "125px"
+                               :height "70px")
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "bg"
+
+(battery_panel_2)
+)
+
+(defwindow battery_time
+           :class "battery_time_window"
+           :monitor 0
+           :geometry (geometry :x "1300px"
+                               :y "900px"
+                               :width "50px"
+                               :height "70px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(battery_time)
+)
+
+(defwindow battery_status_1 
+           :class "battery_staus"
+           :monitor 0
+           :geometry (geometry :x "1300px"
+                               :y "1000px"
+                               :width "50px"
+                               :height "70px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(battery_status_1)
+)
+
+(defwindow battery_status_2 
+           :class "battery_staus"
+           :monitor 0
+           :geometry (geometry :x "1450px"
+                               :y "1000px"
+                               :width "50px"
+                               :height "70px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(battery_status_2)
+)
+
+(defwindow battery_status_3 
+           :class "battery_staus"
+           :monitor 0
+           :geometry (geometry :x "1600px"
+                               :y "1000px"
+                               :width "50px"
+                               :height "70px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(battery_status_3)
+)
+
+
+(defwindow memory_status 
+           :class "memory_status"
+           :monitor 0
+           :geometry (geometry :x "1130px"
+                               :y "30px"
+                               :width "50px"
+                               :height "70px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(memory_status)
+)
+(defwindow volume_panel1
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1200px"
+                               :y "540px"
+                               :width "50px"
+                               :height "30px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_panel1)
+)
+
+(defwindow volume_panel2
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1200px"
+                               :y "580px"
+                               :width "50px"
+                               :height "30px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_panel2)
+)
+
+(defwindow volume_panel3
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1200px"
+                               :y "610px"
+                               :width "50px"
+                               :height "30px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_panel3)
+)
+
+
+(defwindow volume_panel4
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1100px"
+                               :y "640px"
+                               :width "100px"
+                               :height "50px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_panel4)
+)
+
+(defwindow volume_panel5
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1100px"
+                               :y "690px"
+                               :width "100px"
+                               :height "50px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_panel5)
+)
+
+(defwindow volume_panel6
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1100px"
+                               :y "740px"
+                               :width "100px"
+                               :height "50px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_panel6)
+)
+
+(defwindow volume_bar1
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1100px"
+                               :y "640px"
+                               :width "900px"
+                               :height "50px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_bar1)
+)
+
+(defwindow volume_bar2
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1100px"
+                               :y "690px"
+                               :width "900px"
+                               :height "50px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_bar2)
+)
+
+(defwindow volume_bar3
+           :class "volume"
+           :monitor 0
+           :geometry (geometry :x "1100px"
+                               :y "740px"
+                               :width "900px"
+                               :height "50px"
+                               )
+           :windowtype "desktop"
+           :wm-ignore "false"
+           :stacking "fg"
+
+(volume_bar3)
+)
 
 (defpoll cpu-core-0 :interval "2s"
   "/home/demid/.config/eww/scripts/core-usage.sh 0")
@@ -106,4 +338,197 @@
  )
 )
 
+(defwidget battery_panel_1 []
+  (image
+   :path "/home/demid/.config/eww/scripts/battery_charge/panel-1.png"
+  )
+)
 
+(defwidget battery_panel_2 []
+  (image
+   :path "/home/demid/.config/eww/scripts/battery_charge/panel-2.png"
+  )
+)
+
+(defpoll battery_hours_ten :interval "2s"
+  "/home/demid/.config/eww/scripts/get_battery_time.sh 1")
+
+(defpoll battery_hours :interval "2s"
+  "/home/demid/.config/eww/scripts/get_battery_time.sh 2")
+
+(defpoll battery_minutes_ten :interval "2s"
+  "/home/demid/.config/eww/scripts/get_battery_time.sh 3")
+
+(defpoll battery_minutes :interval "2s"
+  "/home/demid/.config/eww/scripts/get_battery_time.sh 4")
+
+(defpoll battery_seconds_ten :interval "2s"
+  "/home/demid/.config/eww/scripts/get_battery_time.sh 5")
+
+(defpoll battery_seconds :interval "2s"
+  "/home/demid/.config/eww/scripts/get_battery_time.sh 6")
+
+(defwidget battery_time []
+  (box
+   :orientation "h"
+   (image
+    :class "charge_time"
+    :image-height "90"
+    :path "/home/demid/.config/eww/scripts//battery_charge/${battery_hours_ten}.png"
+   )
+   (image
+    :class "charge_time"
+    :image-height "90"
+    :path "/home/demid/.config/eww/scripts/battery_charge/${battery_hours}.png"
+   )
+   (image
+    :class "charge_time"
+    :image-height "50"
+    :path "/home/demid/.config/eww/scripts/battery_charge/dots.png"
+   )
+   (image
+    :class "charge_time"
+    :image-height "90"
+    :path "/home/demid/.config/eww/scripts/battery_charge/${battery_minutes_ten}.png"
+   )
+
+   (image
+    :class "charge_time"
+    :image-height "90"
+    :path "/home/demid/.config/eww/scripts/battery_charge/${battery_minutes}.png"
+   )
+   (image
+    :class "charge_time"
+    :image-height "50"
+    :path "/home/demid/.config/eww/scripts/battery_charge/dots.png"
+   )
+   (image
+    :class "charge_time"
+    :image-height "90"
+    :path "/home/demid/.config/eww/scripts/battery_charge/${battery_seconds_ten}.png"
+   )
+   (image
+    :class "charge_time"
+    :image-height "90"
+    :path "/home/demid/.config/eww/scripts/battery_charge/${battery_seconds}.png"
+   )
+ )
+)
+
+(defpoll battery_stop_status :interval "2s"
+  "/home/demid/.config/eww/scripts/battery_status.sh 1")
+
+(defwidget battery_status_1 []
+  (image
+   :path "/home/demid/.config/eww/scripts/battery_charge/status-0${battery_stop_status}.png"
+  )
+)
+
+(defpoll battery_charge_status :interval "2s"
+  "/home/demid/.config/eww/scripts/battery_status.sh 2")
+
+(defwidget battery_status_2 []
+  (image
+   :path "/home/demid/.config/eww/scripts/battery_charge/status-1${battery_charge_status}.png"
+  )
+)
+
+
+(defpoll battery_use_status :interval "2s"
+  "/home/demid/.config/eww/scripts/battery_status.sh 3")
+
+(defwidget battery_status_3 []
+  (image
+   :path "/home/demid/.config/eww/scripts/battery_charge/status-2${battery_use_status}.png"
+  )
+)
+
+(defpoll ssd_use :interval "2s"
+  "/home/demid/.config/eww/scripts/get_memory_usage.sh 0")
+
+(defpoll memory_use :interval "2s"
+  "/home/demid/.config/eww/scripts/get_memory_usage.sh 1")
+
+(defpoll swap_use :interval "2s"
+  "/home/demid/.config/eww/scripts/get_memory_usage.sh 2")
+
+
+(defwidget memory_status []
+  (image
+   :path "/home/demid/.config/eww/scripts/memory/${ssd_use}${memory_use}${swap_use}.png"
+  )
+)
+
+
+(defwidget volume_panel1 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/panel.png"
+  )
+)
+
+(defwidget volume_panel2 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/panel5.png"
+   :image-height "30"
+  )
+)
+
+(defwidget volume_panel3 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/panel4.png"
+  )
+)
+
+(defwidget volume_panel4 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/panel1.png"
+   :image-height "50"
+  )
+)
+
+(defwidget volume_panel5 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/panel2.png"
+   :image-height "50"
+  )
+)
+
+(defwidget volume_panel6 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/panel3.png"
+   :image-height "50"
+  )
+)
+
+(defpoll speaker_vol :interval "2s"
+  "/home/demid/.config/eww/scripts/get_volume.sh 0")
+
+(defwidget volume_bar1 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/${speaker_vol}.png"
+   :image-height "40"
+   :preserve-aspect-ratio: "false"
+  )
+)
+
+(defpoll mic_vol :interval "2s"
+  "/home/demid/.config/eww/scripts/get_volume.sh 1")
+
+(defwidget volume_bar2 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/${mic_vol}.png"
+   :image-height "40"
+   :preserve-aspect-ratio: "false"
+  )
+)
+
+(defpoll rn_vol :interval "2s"
+  "/home/demid/.config/eww/scripts/get_volume.sh 2")
+
+(defwidget volume_bar3 []
+  (image
+   :path "/home/demid/.config/eww/scripts/volume/${rn_vol}.png"
+   :image-height "40"
+   :preserve-aspect-ratio: "false"
+  )
+)

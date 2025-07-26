@@ -1,4 +1,3 @@
-#mpstat -P 0 | awk 'NF && $3 ~ /^[0-9]/ {print $3 * 10}'
 mpstat -P "$1" 1 1| awk 'NF && $3 ~ /^[0-9]/{
                     if($3 <= 20.0)
                          {print 1}
