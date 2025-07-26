@@ -518,7 +518,6 @@
   (image
    :path "/home/demid/.config/eww/scripts/volume/${mic_vol}.png"
    :image-height "40"
-   :preserve-aspect-ratio: "false"
   )
 )
 
@@ -529,6 +528,5 @@
   (image
    :path "/home/demid/.config/eww/scripts/volume/${rn_vol}.png"
    :image-height "40"
-   :preserve-aspect-ratio: "false"
   )
 )
